@@ -1,0 +1,1053 @@
+"yelp_dc_restaurant_id","business_name","rank","review_count","categories","rating","address","reservation_available","accept_pickup","price_range","url"
+"1","Unconventional Diner","1         
+","73","Diners,Comfort Food","5","1207 9th St NW Washington, DC 20001","False","False","2","https://www.yelp.com/biz/unconventional-diner-washington-3?frvs=True&osq=Restaurant"
+"2","The Pig","2         
+","1341","American (Traditional),Cocktail Bars","4","1320 14th St NW Washington, DC 20005","False","False","2","https://www.yelp.com/biz/the-pig-washington-2?frvs=True&osq=Restaurant"
+"3","Busboys and Poets - 5th and K","3         
+","1479","American (Traditional),Breakfast & Brunch,Mediterranean","4","1025 5th St NW Washington, DC 20001","False","False","2","https://www.yelp.com/biz/busboys-and-poets-5th-and-k-washington-2?frvs=True&osq=Restaurant"
+"4","The Bird","4         
+","361","American (New),Breakfast & Brunch","4","1337 11th St NW Washington, DC 20001","False","False","2","https://www.yelp.com/biz/the-bird-washington?frvs=True&osq=Restaurant"
+"5","The Dabney Cellar","5         
+","12","Bars,American (New)","5","1222 9th St NW Washington, DC 20001","False","False","0","https://www.yelp.com/biz/the-dabney-cellar-washington-2?frvs=True&osq=Restaurant"
+"6","Hen Quarter","6         
+","433","Southern,Breakfast & Brunch","4","750 E St NW Washington, DC 20004","False","False","2","https://www.yelp.com/biz/hen-quarter-washington-2?frvs=True&osq=Restaurant"
+"7","Convivial","7         
+","447","American (New),French,Bars","4","801 O St NW Washington, DC 20001","False","False","2","https://www.yelp.com/biz/convivial-washington?frvs=True&osq=Restaurant"
+"8","Spark","8         
+","30","Barbeque,Caribbean,Venues & Event Spaces","5","1626 N Capitol St NW Washington, DC 20002","False","False","2","https://www.yelp.com/biz/spark-washington?frvs=True&osq=Restaurant"
+"9","Founding Farmers - D.C","9         
+","10287","American (Traditional),Coffee & Tea,Breakfast & Brunch","4","1924 Pennsylvania Ave NW Washington, DC 20006","False","False","2","https://www.yelp.com/biz/founding-farmers-d-c-washington-2?frvs=True&osq=Restaurant"
+"10","A Baked Joint","10         
+","1058","Coffee & Tea,Breakfast & Brunch,Sandwiches","5","440 K St NW Washington, DC 20001","False","False","1","https://www.yelp.com/biz/a-baked-joint-washington-9?frvs=True&osq=Restaurant"
+"11","Barrel","1
+","559","American (New),Cocktail Bars,Breakfast & Brunch","5","613 Pennsylvania Ave SE Washington, DC 20003","False","False","2","https://www.yelp.com/biz/barrel-washington?frvs=True&osq=Restaurant"
+"12","Rose's Luxury","2
+","1604","American (New),Italian","5","717 8th St SE Washington, DC 20003","False","False","3","https://www.yelp.com/biz/roses-luxury-washington?frvs=True&osq=Restaurant"
+"13","Chloe","3
+","39","American (New),Modern European","5","1331 4th St SE Washington, DC 20003","False","False","3","https://www.yelp.com/biz/chloe-washington-4?frvs=True&osq=Restaurant"
+"14","Pineapple & Pearls","4
+","255","Cafes,Coffee & Tea,American (New)","5","715 8th St SE Washington, DC 20003","False","False","4","https://www.yelp.com/biz/pineapple-and-pearls-washington-3?frvs=True&osq=Restaurant"
+"15","Ted's Bulletin","5
+","1698","Breakfast & Brunch,American (Traditional),Sandwiches","4","505 8th St SE Washington, DC 20003","False","False","2","https://www.yelp.com/biz/teds-bulletin-washington?frvs=True&osq=Restaurant"
+"16","Farmbird","6
+","207","Chicken Shop,American (New),American (Traditional)","5","625A H St NE Washington, DC 20002","False","False","2","https://www.yelp.com/biz/farmbird-washington?frvs=True&osq=Restaurant"
+"17","Ambar","7
+","1095","Modern European","5","523 8th St SE Washington, DC 20003","False","False","2","https://www.yelp.com/biz/ambar-washington?frvs=True&osq=Restaurant"
+"18","Eatbar","8
+","102","Bars,American (New),Burgers","4","415 8th St SE Washington, DC 20003","False","False","2","https://www.yelp.com/biz/eatbar-washington?frvs=True&osq=Restaurant"
+"19","Unconventional Diner","9
+","73","Diners,Comfort Food","5","1207 9th St NW Washington, DC 20001","False","False","2","https://www.yelp.com/biz/unconventional-diner-washington-3?frvs=True&osq=Restaurant"
+"20","The Alibi","10
+","213","British,Pubs,Seafood","5","237 2nd St NW Washington, DC 20001","False","False","2","https://www.yelp.com/biz/the-alibi-washington?frvs=True&osq=Restaurant"
+"21","Unconventional Diner","1         
+","73","Diners,Comfort Food","5","1207 9th St NW Washington, DC 20001","False","False","2","https://www.yelp.com/biz/unconventional-diner-washington-3?frvs=True&osq=Restaurant"
+"22","Hen Quarter","2         
+","433","Southern,Breakfast & Brunch","4","750 E St NW Washington, DC 20004","False","False","2","https://www.yelp.com/biz/hen-quarter-washington-2?frvs=True&osq=Restaurant"
+"23","b DC Penn Quarter","3         
+","1010","Burgers,Bars,American (New)","4","801 Pennsylvania Ave NW Washington, DC 20004","False","False","2","https://www.yelp.com/biz/b-penn-quarter-washington-2?frvs=True&osq=Restaurant"
+"24","The Smith","4         
+","379","Bars,Steakhouses","4","901 F St NW Washington, DC 20004","False","False","2","https://www.yelp.com/biz/the-smith-washington-2?frvs=True&osq=Restaurant"
+"25","District Taco","5         
+","1258","Mexican","4","1309 F St NW Washington, DC 20004","False","False","1","https://www.yelp.com/biz/district-taco-washington-6?frvs=True&osq=Restaurant"
+"26","Old Ebbitt Grill","6         
+","6182","Bars,Breakfast & Brunch,Sandwiches","4","675 15th St NW Washington, DC 20005","False","False","2","https://www.yelp.com/biz/old-ebbitt-grill-washington?frvs=True&osq=Restaurant"
+"27","USDA Whitten Cafe","7         
+","55","Breakfast & Brunch,Cafeteria","4","1400 Independence Washington, DC 20250","False","False","1","https://www.yelp.com/biz/usda-whitten-cafe-washington?frvs=True&osq=Restaurant"
+"28","Pennsylvania 6 DC","8         
+","298","American (Traditional),Seafood,Cocktail Bars","5","1350 Eye St NW Washington, DC 20005","False","False","3","https://www.yelp.com/biz/pennsylvania-6-dc-washington?frvs=True&osq=Restaurant"
+"29","SUCCOTASH - Penn Quarter","9         
+","208","Southern,American (Traditional),Barbeque","4","915 F St NW Washington, DC 20004","False","False","2","https://www.yelp.com/biz/succotash-penn-quarter-washington-2?frvs=True&osq=Restaurant"
+"30","Poke Papa","10         
+","495","Poke,Hawaiian","5","806 H St NW Washington, DC 20001","False","False","2","https://www.yelp.com/biz/poke-papa-washington?frvs=True&osq=Restaurant"
+"31","Unconventional Diner","1         
+","73","Diners,Comfort Food","5","1207 9th St NW Washington, DC 20001","False","False","2","https://www.yelp.com/biz/unconventional-diner-washington-3?frvs=True&osq=Restaurant"
+"32","The Pig","2         
+","1341","American (Traditional),Cocktail Bars","4","1320 14th St NW Washington, DC 20005","False","False","2","https://www.yelp.com/biz/the-pig-washington-2?frvs=True&osq=Restaurant"
+"33","Founding Farmers - D.C","3         
+","10287","American (Traditional),Coffee & Tea,Breakfast & Brunch","4","1924 Pennsylvania Ave NW Washington, DC 20006","False","False","2","https://www.yelp.com/biz/founding-farmers-d-c-washington-2?frvs=True&osq=Restaurant"
+"34","Pennsylvania 6 DC","4         
+","298","American (Traditional),Seafood,Cocktail Bars","5","1350 Eye St NW Washington, DC 20005","False","False","3","https://www.yelp.com/biz/pennsylvania-6-dc-washington?frvs=True&osq=Restaurant"
+"35","ChurchKey","5         
+","1299","American (New),Lounges","4","1337 14th St NW Washington, DC 20005","False","False","2","https://www.yelp.com/biz/churchkey-washington?frvs=True&osq=Restaurant"
+"36","The Bird","6         
+","361","American (New),Breakfast & Brunch","4","1337 11th St NW Washington, DC 20001","False","False","2","https://www.yelp.com/biz/the-bird-washington?frvs=True&osq=Restaurant"
+"37","Old Ebbitt Grill","7         
+","6182","Bars,Breakfast & Brunch,Sandwiches","4","675 15th St NW Washington, DC 20005","False","False","2","https://www.yelp.com/biz/old-ebbitt-grill-washington?frvs=True&osq=Restaurant"
+"38","Hen Quarter","8         
+","433","Southern,Breakfast & Brunch","4","750 E St NW Washington, DC 20004","False","False","2","https://www.yelp.com/biz/hen-quarter-washington-2?frvs=True&osq=Restaurant"
+"39","The Dabney Cellar","9         
+","12","Bars,American (New)","5","1222 9th St NW Washington, DC 20001","False","False","0","https://www.yelp.com/biz/the-dabney-cellar-washington-2?frvs=True&osq=Restaurant"
+"40","Wicked Waffle","10         
+","910","Breakfast & Brunch,Sandwiches,Gluten-Free","4","1712 I St NW Washington, DC 20006","False","False","1","https://www.yelp.com/biz/wicked-waffle-washington?frvs=True&osq=Restaurant"
+"41","Founding Farmers - D.C","1
+","10287","American (Traditional),Coffee & Tea,Breakfast & Brunch","4","1924 Pennsylvania Ave NW Washington, DC 20006","False","False","2","https://www.yelp.com/biz/founding-farmers-d-c-washington-2?frvs=True&osq=Restaurant"
+"42","The Pig","2
+","1341","American (Traditional),Cocktail Bars","4","1320 14th St NW Washington, DC 20005","False","False","2","https://www.yelp.com/biz/the-pig-washington-2?frvs=True&osq=Restaurant"
+"43","Luke's Lobster Farragut","3
+","7","Seafood","5","800 17th St NW Washington, DC 20006","False","False","0","https://www.yelp.com/biz/lukes-lobster-farragut-washington-2?frvs=True&osq=Restaurant"
+"44","Wicked Waffle","4
+","910","Breakfast & Brunch,Sandwiches,Gluten-Free","4","1712 I St NW Washington, DC 20006","False","False","1","https://www.yelp.com/biz/wicked-waffle-washington?frvs=True&osq=Restaurant"
+"45","Alfa Piehouse","5
+","92","Greek,Bakeries,Breakfast & Brunch","5","1750 H St NW Washington, DC 20006","False","True","1","https://www.yelp.com/biz/alfa-piehouse-washington?frvs=True&osq=Restaurant"
+"46","Honeysuckle","6
+","126","American (New)","5","1990 M St NW Washington, DC 20036","False","False","3","https://www.yelp.com/biz/honeysuckle-washington-3?frvs=True&osq=Restaurant"
+"47","Blue Duck Tavern","7
+","1937","American (New),Breakfast & Brunch,Cocktail Bars","4","1201 24th St NW Washington, DC 20037","False","False","3","https://www.yelp.com/biz/blue-duck-tavern-washington?frvs=True&osq=Restaurant"
+"48","Old Ebbitt Grill","8
+","6182","Bars,Breakfast & Brunch,Sandwiches","4","675 15th St NW Washington, DC 20005","False","False","2","https://www.yelp.com/biz/old-ebbitt-grill-washington?frvs=True&osq=Restaurant"
+"49","Korean Signature Bibimbap","9
+","59","Korean","4","1825 I St NW Washington, DC 20006","False","False","1","https://www.yelp.com/biz/korean-signature-bibimbap-washington?frvs=True&osq=Restaurant"
+"50","Stoney's on L","10         
+","220","American (Traditional),Lounges","4","2101 L St NW Washington, DC 20037","False","False","2","https://www.yelp.com/biz/stoneys-on-l-washington?frvs=True&osq=Restaurant"
+"51","Farmers Fishers Bakers","1
+","2583","American (New),Breakfast & Brunch,Vegetarian","4",,"False","False","2","https://www.yelp.com/biz/farmers-fishers-bakers-washington?frvs=True&osq=Restaurant"
+"52","Founding Farmers - D.C","2
+","10287","American (Traditional),Coffee & Tea,Breakfast & Brunch","4","1924 Pennsylvania Ave NW","False","False","2","https://www.yelp.com/biz/founding-farmers-d-c-washington-2?frvs=True&osq=Restaurant"
+"53","Blue Duck Tavern","3
+","1937","American (New),Breakfast & Brunch,Cocktail Bars","4","1201 24th St NW","False","False","3","https://www.yelp.com/biz/blue-duck-tavern-washington?frvs=True&osq=Restaurant"
+"54","Unconventional Diner","4
+","73","Diners,Comfort Food","5","1207 9th St NW","False","False","2","https://www.yelp.com/biz/unconventional-diner-washington-3?frvs=True&osq=Restaurant"
+"55","Clyde's of Georgetown","5         
+","858","American (Traditional),Bars","4","3236 M St NW","False","False","2","https://www.yelp.com/biz/clydes-of-georgetown-washington-3?frvs=True&osq=Restaurant"
+"56","Boulangerie Christophe","6
+","127","Bakeries,French,Cafes","4","1422 Wisconsin Ave NW","False","False","2","https://www.yelp.com/biz/boulangerie-christophe-washington?frvs=True&osq=Restaurant"
+"57","Via Umbria","7
+","48","Italian,Beer, Wine & Spirits,Cheese Shops","5","1525 Wisconsin Ave NW","False","False","2","https://www.yelp.com/biz/via-umbria-washington?frvs=True&osq=Restaurant"
+"58","The Pig","8
+","1341","American (Traditional),Cocktail Bars","4","1320 14th St NW","False","False","2","https://www.yelp.com/biz/the-pig-washington-2?frvs=True&osq=Restaurant"
+"59","OKI bowl at Georgetown","9
+","58","Ramen","4","1608 Wisconsin Ave NW","False","True","2","https://www.yelp.com/biz/oki-bowl-at-georgetown-washington-2?frvs=True&osq=Restaurant"
+"60","1789 Restaurant","10
+","613","American (Traditional),American (New),Ice Cream & Frozen Yogurt","4","1226 36th St NW","False","False","4","https://www.yelp.com/biz/1789-restaurant-washington-4?frvs=True&osq=Restaurant"
+"61","Duke's Counter","1
+","236","Burgers,Pubs,Sandwiches","5","3000 Connecticut Ave NW Washington, DC 20008","False","True","2","https://www.yelp.com/biz/dukes-counter-washington?frvs=True&osq=Restaurant"
+"62","Unconventional Diner","2
+","73","Diners,Comfort Food","5","1207 9th St NW Washington, DC 20001","False","False","2","https://www.yelp.com/biz/unconventional-diner-washington-3?frvs=True&osq=Restaurant"
+"63","Open City At the National Cathedral","3
+","65","Bars,Cafes,Diners","4","3101 Wisconsin Ave NW Washington, DC 20015","False","False","2","https://www.yelp.com/biz/open-city-at-the-national-cathedral-washington-3?frvs=True&osq=Restaurant"
+"64","Hot N Juicy Crawfish","4
+","1118","Seafood,Cajun/Creole","4","2651 Connecticut Ave NW Washington, DC 20008","False","False","2","https://www.yelp.com/biz/hot-n-juicy-crawfish-washington?frvs=True&osq=Restaurant"
+"65","District Kitchen","5
+","303","American (New)","4","2606 Connecticut Ave NW Washington, DC 20008","False","False","2","https://www.yelp.com/biz/district-kitchen-washington?frvs=True&osq=Restaurant"
+"66","The Pig","6
+","1341","American (Traditional),Cocktail Bars","4","1320 14th St NW Washington, DC 20005","False","False","2","https://www.yelp.com/biz/the-pig-washington-2?frvs=True&osq=Restaurant"
+"67","Founding Farmers - D.C","7
+","10287","American (Traditional),Coffee & Tea,Breakfast & Brunch","4","1924 Pennsylvania Ave NW Washington, DC 20006","False","False","2","https://www.yelp.com/biz/founding-farmers-d-c-washington-2?frvs=True&osq=Restaurant"
+"68","Tail Up Goat","8
+","384","Cocktail Bars,American (New),Italian","5","1827 Adams Mill Rd NW Washington, DC 20009","False","False","3","https://www.yelp.com/biz/tail-up-goat-washington?frvs=True&osq=Restaurant"
+"69","Coppi's Organic Restaurant","9         
+","112","Italian,Bars","4","3321 Connecticut Ave NW Washington, DC 20008","True","True","2","https://www.yelp.com/biz/coppis-organic-restaurant-washington?frvs=True&osq=Restaurant"
+"70","Trattoria Al Volo","10
+","11","Italian,Beer Bar","4","3417 Connecticut Ave NW Washington, DC 20008","False","False","0","https://www.yelp.com/biz/trattoria-al-volo-washington-2?frvs=True&osq=Restaurant"
+"71","Bandit Taco","1
+","24","Mexican","5","1946 New Hampshire Ave NW Washington, DC 20009","False","False","2","https://www.yelp.com/biz/bandit-taco-washington?frvs=True&osq=Restaurant"
+"72","Unconventional Diner","2
+","73","Diners,Comfort Food","5","1207 9th St NW Washington, DC 20001","False","False","2","https://www.yelp.com/biz/unconventional-diner-washington-3?frvs=True&osq=Restaurant"
+"73","The Pig","3
+","1341","American (Traditional),Cocktail Bars","4","1320 14th St NW Washington, DC 20005","False","False","2","https://www.yelp.com/biz/the-pig-washington-2?frvs=True&osq=Restaurant"
+"74","The Fainting Goat","4
+","515","American (New),Bars","4","1330 U St NW Washington, DC 20009","False","False","2","https://www.yelp.com/biz/the-fainting-goat-washington?frvs=True&osq=Restaurant"
+"75","Tail Up Goat","5
+","384","Cocktail Bars,American (New),Italian","5","1827 Adams Mill Rd NW Washington, DC 20009","False","False","3","https://www.yelp.com/biz/tail-up-goat-washington?frvs=True&osq=Restaurant"
+"76","Grady's","6         
+","9","American (New)","5","2210 14th St NW Washington, DC 20009","True","False","0","https://www.yelp.com/biz/gradys-washington?frvs=True&osq=Restaurant"
+"77","Maydan","7
+","98","Persian/Iranian,Moroccan,Lebanese","5","1346 Florida Ave NW Washington, DC 20009","False","False","2","https://www.yelp.com/biz/maydan-washington-2?frvs=True&osq=Restaurant"
+"78","Founding Farmers - D.C","8
+","10287","American (Traditional),Coffee & Tea,Breakfast & Brunch","4","1924 Pennsylvania Ave NW Washington, DC 20006","False","False","2","https://www.yelp.com/biz/founding-farmers-d-c-washington-2?frvs=True&osq=Restaurant"
+"79","Brick Lane","9
+","288","Breakfast & Brunch,American (New)","4","1636 17th St NW Washington, DC 20009","False","True","2","https://www.yelp.com/biz/brick-lane-washington?frvs=True&osq=Restaurant"
+"80","Busboys and Poets - 14th and V","10
+","1833","Breakfast & Brunch,American (Traditional)","4","2021 14th St NW Washington, DC 20009","False","False","2","https://www.yelp.com/biz/busboys-and-poets-14th-and-v-washington-2?frvs=True&osq=Restaurant"
+"81","Heat Da Spot","1         
+","109","Cafes","5","3213 Georgia Ave NW Washington, DC 20010","False","False","1","https://www.yelp.com/biz/heat-da-spot-washington?frvs=True&osq=Restaurant"
+"82","Thip Khao","2         
+","731","Laotian","5","3462 14th St NW Washington, DC 20010","False","False","2","https://www.yelp.com/biz/thip-khao-washington?frvs=True&osq=Restaurant"
+"83","The Good Silver","3         
+","27","Cocktail Bars,American (Traditional)","4","3410 11th St NW Washington, DC 20010","False","False","2","https://www.yelp.com/biz/the-good-silver-washington?frvs=True&osq=Restaurant"
+"84","Bad Saint","4         
+","398","Filipino","4","3226 11th St NW Washington, DC 20010","False","False","3","https://www.yelp.com/biz/bad-saint-washington?frvs=True&osq=Restaurant"
+"85","Taqueria Habanero","5         
+","503","Mexican,Cocktail Bars","5","3710 14th St NW Washington, DC 20010","False","False","1","https://www.yelp.com/biz/taqueria-habanero-washington?frvs=True&osq=Restaurant"
+"86","Purple Patch","6         
+","487","Filipino,American (Traditional),Cocktail Bars","5","3155 Mt Pleasant St NW Washington, DC 20010","False","True","2","https://www.yelp.com/biz/purple-patch-washington?frvs=True&osq=Restaurant"
+"87","The Airedale","7         
+","94","Gastropubs","4","3605 14th St Washington, DC 20010","False","False","2","https://www.yelp.com/biz/the-airedale-washington?frvs=True&osq=Restaurant"
+"88","Mi Cuba Cafe","8         
+","454","Cuban,Latin American,Caribbean","5","1424 Park Rd NW Washington, DC 20010","False","False","2","https://www.yelp.com/biz/mi-cuba-cafe-washington?frvs=True&osq=Restaurant"
+"89","Flip it LJ Diner","9         
+","39","Diners","5","1432 Park Rd Washington, DC 20010","False","False","2","https://www.yelp.com/biz/flip-it-lj-diner-washington-2?frvs=True&osq=Restaurant"
+"90","Homestead","10         
+","160","Cocktail Bars,Cideries,American (Traditional)","4","3911 Georgia Ave NW Washington, DC 20011","False","False","2","https://www.yelp.com/biz/homestead-washington?frvs=True&osq=Restaurant"
+"91","Highlands","1
+","376","Coffee & Tea,Breakfast & Brunch,American (Traditional)","4","4706 14th St NW Washington, DC 20011","False","False","2","https://www.yelp.com/biz/highlands-washington-3?frvs=True&osq=Restaurant"
+"92","Homestead","2
+","160","Cocktail Bars,Cideries,American (Traditional)","4","3911 Georgia Ave NW Washington, DC 20011","False","False","2","https://www.yelp.com/biz/homestead-washington?frvs=True&osq=Restaurant"
+"93","Library Tavern","3
+","33","Persian/Iranian,American (Traditional),Pubs","5","5420 3rd St NW Washington, DC 20011","False","False","2","https://www.yelp.com/biz/library-tavern-washington?frvs=True&osq=Restaurant"
+"94","Tony's Place","4
+","49","American (Traditional),Breakfast & Brunch","5","622 Kennedy St NW Washington, DC 20011","False","False","1","https://www.yelp.com/biz/tonys-place-washington?frvs=True&osq=Restaurant"
+"95","Moreland's Tavern","5
+","42","American (Traditional),Bars","5","5501 14th St NW Washington, DC 20011","False","False","2","https://www.yelp.com/biz/morelands-tavern-washington?frvs=True&osq=Restaurant"
+"96","Slim's Diner","6         
+","229","Diners,Breakfast & Brunch,Bars","3","4201 Georgia Ave NW Washington, DC 20011","False","False","2","https://www.yelp.com/biz/slims-diner-washington-2?frvs=True&osq=Restaurant"
+"97","Slash Run","7
+","117","Burgers,Beer Bar,Breakfast & Brunch","4","201 Upshur St NW Washington, DC 20011","False","False","2","https://www.yelp.com/biz/slash-run-washington?frvs=True&osq=Restaurant"
+"98","Heat Da Spot","8
+","109","Cafes","5","3213 Georgia Ave NW Washington, DC 20010","False","False","1","https://www.yelp.com/biz/heat-da-spot-washington?frvs=True&osq=Restaurant"
+"99","Taqueria Habanero","9
+","503","Mexican,Cocktail Bars","5","3710 14th St NW Washington, DC 20010","False","False","1","https://www.yelp.com/biz/taqueria-habanero-washington?frvs=True&osq=Restaurant"
+"100","Hitching Post","10
+","213","Southern,Soul Food,Salad","4","200 Upshur St NW Washington, DC 20011","False","True","2","https://www.yelp.com/biz/hitching-post-washington?frvs=True&osq=Restaurant"
+"101","Trattoria Da Lina","1
+","109","Italian","5","7000 Carroll Ave Takoma Park, MD 20912","False","False","2","https://www.yelp.com/biz/trattoria-da-lina-takoma-park?frvs=True&osq=Restaurant"
+"102","Moh Moh Licious","2
+","41","Himalayan/Nepalese,Asian Fusion","5","7414 Georgia Ave NW Washington, DC 20012","False","False","2","https://www.yelp.com/biz/moh-moh-licious-washington?frvs=True&osq=Restaurant"
+"103","Republic","3
+","383","Bars,Seafood","4","6939 Laurel Ave Takoma Park, MD 20912","False","False","2","https://www.yelp.com/biz/republic-takoma-park-2?frvs=True&osq=Restaurant"
+"104","Takoma Bev","4
+","60","Cocktail Bars,Coffee & Tea,Breakfast & Brunch","5","6917 Laurel Ave Takoma Park, MD 20912","False","False","2","https://www.yelp.com/biz/takoma-bev-takoma-park-2?frvs=True&osq=Restaurant"
+"105","Lina's Diner & Bar","5
+","71","Bars,American (New),French","5","8402 Georgia Ave Silver Spring, MD 20910","False","False","2","https://www.yelp.com/biz/linas-diner-and-bar-silver-spring-2?frvs=True&osq=Restaurant"
+"106","Busboys and Poets - Takoma","6
+","184","American (Traditional),Mediterranean,Breakfast & Brunch","4","235 Carroll St NW Washington, DC 20012","False","False","2","https://www.yelp.com/biz/busboys-and-poets-takoma-washington?frvs=True&osq=Restaurant"
+"107","TACO-ma Yucatan Chicken","7
+","55","Latin American","4","353 Cedar St NW Washington, DC 20012","False","False","2","https://www.yelp.com/biz/taco-ma-yucatan-chicken-washington?frvs=True&osq=Restaurant"
+"108","Wings On Deck","8
+","80","Chicken Wings,Southern,Soul Food","5","7317 Georgia Ave NW Washington, DC 20012","False","True","2","https://www.yelp.com/biz/wings-on-deck-washington?frvs=True&osq=Restaurant"
+"109","Spicy Delight","9
+","60","Caribbean","5","308 Carroll St NW Washington, DC 20012","False","False","2","https://www.yelp.com/biz/spicy-delight-washington?frvs=True&osq=Restaurant"
+"110","Mark's Kitchen","10         
+","373","Vegetarian,Korean,American (Traditional)","4","7006 Carroll Ave Takoma Park, MD 20912","False","False","2","https://www.yelp.com/biz/marks-kitchen-takoma-park?frvs=True&osq=Restaurant"
+"111","Luke's Lobster Farragut","1         
+","7","Seafood","5","800 17th St NW Washington, DC 20006","False","False","0","https://www.yelp.com/biz/lukes-lobster-farragut-washington-2?frvs=True&osq=Restaurant"
+"112","Zen Taco","2
+","8","Mexican,Poke","4","1747 Pennsylvania Ave NW Washington, DC 20006","False","False","0","https://www.yelp.com/biz/zen-taco-washington-4?frvs=True&osq=Restaurant"
+"113","Korean Signature Bibimbap","3
+","59","Korean","4","1825 I St NW Washington, DC 20006","False","False","1","https://www.yelp.com/biz/korean-signature-bibimbap-washington?frvs=True&osq=Restaurant"
+"114","Wicked Waffle","4
+","911","Breakfast & Brunch,Sandwiches,Gluten-Free","4","1712 I St NW Washington, DC 20006","False","False","1","https://www.yelp.com/biz/wicked-waffle-washington?frvs=True&osq=Restaurant"
+"115","Alfa Piehouse","5
+","92","Greek,Bakeries,Breakfast & Brunch","5","1750 H St NW Washington, DC 20006","False","True","1","https://www.yelp.com/biz/alfa-piehouse-washington?frvs=True&osq=Restaurant"
+"116","GCDC Grilled Cheese Bar","6
+","368","American (Traditional),Comfort Food","4","1730 Pennsylvania Ave NW Washington, DC 20006","False","True","2","https://www.yelp.com/biz/gcdc-grilled-cheese-bar-washington?frvs=True&osq=Restaurant"
+"117","Roti Modern Mediterranean","7
+","215","Mediterranean","4","1747 Pennsylvania Ave NW Washington, DC 20006","False","False","1","https://www.yelp.com/biz/roti-modern-mediterranean-washington-2?frvs=True&osq=Restaurant"
+"118","Off The Record","8
+","237","Bars,American (New)","4","800 16th St NW Washington, DC 20006","False","False","3","https://www.yelp.com/biz/off-the-record-washington?frvs=True&osq=Restaurant"
+"119","Havana Cafe","9
+","67","Cuban","4","1825 I St NW Washington, DC 20006","False","False","1","https://www.yelp.com/biz/havana-cafe-washington?frvs=True&osq=Restaurant"
+"120","Sichuan Pavilion","10
+","802","Szechuan","4","1814 K St NW Washington, DC 20006","False","False","2","https://www.yelp.com/biz/sichuan-pavilion-washington?frvs=True&osq=Restaurant"
+"121","Lairh'","1
+","6","Sicilian,Pizza","5","Via Rho 38A 20020 Lainate Italy","False","False","0","https://www.yelp.com/biz/lairh%C3%B2-lainate?frvs=True&osq=Restaurant"
+"122","Osteria Cascina Torrette","2
+","1","Pizza,Italian,Trattorie","5","Via Cascine Torrette 29 20010 Cornaredo Italy","False","False","2","https://www.yelp.com/biz/osteria-cascina-torrette-cornaredo?frvs=True&osq=Restaurant"
+"123","Al Canevone","3
+","2","Lounges,Italian,Buffets","5","Via Isonzo 20020 Lainate Italy","False","False","2","https://www.yelp.com/biz/al-canevone-lainate-2?frvs=True&osq=Restaurant"
+"124","Charlie Chaplin","4
+","14","Italian,Pizza","5","Via Vittorio Veneto 32 20024 Garbagnate Milanese Italy","False","False","2","https://www.yelp.com/biz/charlie-chaplin-garbagnate-milanese?frvs=True&osq=Restaurant"
+"125","Amozzarella","5
+","3","Pizza,Italian","4","Via Sempione 10 20010 Pogliano Milanese Italy","False","False","3","https://www.yelp.com/biz/amozzarella-pogliano-milanese?frvs=True&osq=Restaurant"
+"126","Osteria della Lucciola","6
+","1","Bistros,Seafood,Pizza","5","Via Monte Santo 2 20010 Canegrate Italy","False","False","0","https://www.yelp.com/biz/osteria-della-lucciola-canegrate?frvs=True&osq=Restaurant"
+"127","Cortevecchia","7
+","3","Italian,Pizza","5","Via Matteotti 8 20020 Arese Italy","False","False","2","https://www.yelp.com/biz/cortevecchia-arese?frvs=True&osq=Restaurant"
+"128","LatteriAgricola","8
+","8","Lumbard","4","Via Rho 90 20020 Lainate Italy","False","False","2","https://www.yelp.com/biz/latteriagricola-lainate?frvs=True&osq=Restaurant"
+"129","La Conchiglia","9
+","5","Italian","5","Via Cesare Battisti 52 20025 Legnano Italy","False","False","3","https://www.yelp.com/biz/la-conchiglia-legnano?frvs=True&osq=Restaurant"
+"130","L'Altra Botte","10         
+","1","Italian","5","Via Mauro Venegoni 84 20025 Legnano Italy","False","False","2","https://www.yelp.com/biz/l-altra-botte-legnano?frvs=True&osq=Restaurant"
+"131","Blue 44 Restaurant & Bar","1         
+","173","American (New)","4","5507 Connecticut Ave NW Washington, DC 20015","False","False","2","https://www.yelp.com/biz/blue-44-restaurant-and-bar-washington?frvs=True&osq=Restaurant"
+"132","Macon Bistro & Larder","2         
+","153","Southern,Wine Bars,Cocktail Bars","4","5520 Connecticut Ave NW Washington, DC 20015","False","False","2","https://www.yelp.com/biz/macon-bistro-and-larder-washington?frvs=True&osq=Restaurant"
+"133","Little Red Fox","3         
+","188","Cafes","4","5035 Connecticut Ave Washington, DC 20008","False","False","2","https://www.yelp.com/biz/little-red-fox-washington?frvs=True&osq=Restaurant"
+"134","Tartufo","4         
+","82","Italian","5","4910 Wisconsin Ave NW Washington, DC 20016","False","False","2","https://www.yelp.com/biz/tartufo-washington?frvs=True&osq=Restaurant"
+"135","Kobo","5         
+","13","Japanese,Vegan","5","5455 Wisconsin Ave Chevy Chase, MD 20815","False","False","4","https://www.yelp.com/biz/kobo-chevy-chase-3?frvs=True&osq=Restaurant"
+"136","Range","6         
+","654","American (New),Seafood,Breakfast & Brunch","4","5335 Wisconsin Ave NW Washington, DC 20015","False","False","3","https://www.yelp.com/biz/range-washington-2?frvs=True&osq=Restaurant"
+"137","The Capital Grille","7         
+","235","Steakhouses,Seafood,Wine Bars","4","5310 Western Ave Chevy Chase, MD 20815","False","False","3","https://www.yelp.com/biz/the-capital-grille-chevy-chase?frvs=True&osq=Restaurant"
+"138","Sfoglina","8         
+","185","Italian","4","4445 Connecticut Ave NW Washington, DC 20008","False","False","3","https://www.yelp.com/biz/sfoglina-washington?frvs=True&osq=Restaurant"
+"139","Modern Market Eatery","9         
+","147","Breakfast & Brunch,Salad,Sandwiches","4","4930 Elm St Bethesda, MD 20814","False","False","2","https://www.yelp.com/biz/modern-market-eatery-bethesda?frvs=True&osq=Restaurant"
+"140","Mon Ami Gabi","10         
+","883","French,Wine Bars","4","7239 Woodmont Ave Bethesda, MD 20814","False","False","2","https://www.yelp.com/biz/mon-ami-gabi-bethesda?frvs=True&osq=Restaurant"
+"141","Tartufo","1
+","82","Italian","5","4910 Wisconsin Ave NW Washington, DC 20016","False","False","2","https://www.yelp.com/biz/tartufo-washington?frvs=True&osq=Restaurant"
+"142","Open City At the National Cathedral","2
+","65","Bars,Cafes,Diners","4","3101 Wisconsin Ave NW Washington, DC 20015","False","False","2","https://www.yelp.com/biz/open-city-at-the-national-cathedral-washington-3?frvs=True&osq=Restaurant"
+"143","Millie's Spring Valley","3
+","69","Tacos,Beer Bar,Breakfast & Brunch","4","4866 Massachusetts Ave NW Washington, DC 20016","False","False","3","https://www.yelp.com/biz/millies-spring-valley-washington?frvs=True&osq=Restaurant"
+"144","Sfoglina","4
+","185","Italian","4","4445 Connecticut Ave NW Washington, DC 20008","False","False","3","https://www.yelp.com/biz/sfoglina-washington?frvs=True&osq=Restaurant"
+"145","Salt & Pepper","5
+","90","Southern,American (New)","4","5125 Macarthur Blvd Washington, DC 20016","False","False","2","https://www.yelp.com/biz/salt-and-pepper-washington?frvs=True&osq=Restaurant"
+"146","The Grilled Oyster Company","6
+","88","Bars,Seafood,Breakfast & Brunch","4","3701 Newark St NW Washington, DC 20016","False","False","3","https://www.yelp.com/biz/the-grilled-oyster-company-washington-2?frvs=True&osq=Restaurant"
+"147","Little Red Fox","7
+","188","Cafes","4","5035 Connecticut Ave Washington, DC 20008","False","False","2","https://www.yelp.com/biz/little-red-fox-washington?frvs=True&osq=Restaurant"
+"148","Duke's Counter","8         
+","236","Burgers,Pubs,Sandwiches","5","3000 Connecticut Ave NW Washington, DC 20008","False","True","2","https://www.yelp.com/biz/dukes-counter-washington?frvs=True&osq=Restaurant"
+"149","SeoulSpice","9
+","20","Korean,Comfort Food,Gluten-Free","5","4600 Wisconsin Ave NW Washington, DC 20016","False","False","1","https://www.yelp.com/biz/seoulspice-washington-8?frvs=True&osq=Restaurant"
+"150","La Piquette","10
+","99","French","4","3714 Macomb St NW Washington, DC 20016","False","False","3","https://www.yelp.com/biz/la-piquette-washington?frvs=True&osq=Restaurant"
+"151","Masala Story","1
+","47","Indian","5","3301 12th St NE Washington, DC 20017","False","False","2","https://www.yelp.com/biz/masala-story-washington?frvs=True&osq=Restaurant"
+"152","Steel Plate","2
+","126","Cocktail Bars,Comfort Food","4","3523 12th St NE Washington, DC 20017","False","False","2","https://www.yelp.com/biz/steel-plate-washington-2?frvs=True&osq=Restaurant"
+"153","Brookland's Finest","3
+","379","American (New),Bars","4","3126 12th St NE Washington, DC 20017","False","False","2","https://www.yelp.com/biz/brooklands-finest-washington-2?frvs=True&osq=Restaurant"
+"154","Smith Public Trust","4
+","177","American (New),Pubs","4","3514 12th St NE Washington, DC 20017","False","False","2","https://www.yelp.com/biz/smith-public-trust-washington?frvs=True&osq=Restaurant"
+"155","Pho 12","5
+","67","Vietnamese","4","3740 12th St NE Washington, DC 20017","False","False","2","https://www.yelp.com/biz/pho-12-washington-2?frvs=True&osq=Restaurant"
+"156","Busboys and Poets - Brookland","6
+","188","Breakfast & Brunch,Mediterranean,American (Traditional)","4","625 Monroe St NE Washington, DC 20017","False","False","2","https://www.yelp.com/biz/busboys-and-poets-brookland-washington?frvs=True&osq=Restaurant"
+"157","Primrose","7
+","31","French,Bars,Comfort Food","5","3000 12th St NE Washington, DC 20017","False","False","2","https://www.yelp.com/biz/primrose-washington?frvs=True&osq=Restaurant"
+"158","Fox Loves Taco","8
+","24","Tacos,Coffee & Tea,Breakfast & Brunch","4","716 Monroe St NE Washington, DC 20017","False","False","1","https://www.yelp.com/biz/fox-loves-taco-washington?frvs=True&osq=Restaurant"
+"159","Murry & Paul's Restaurant","9         
+","88","Breakfast & Brunch","4","3513 12th St NE Washington, DC 20017","False","False","1","https://www.yelp.com/biz/murry-and-pauls-restaurant-washington?frvs=True&osq=Restaurant"
+"160","Brookland Pint","10
+","196","Bars,American (Traditional)","4","716 Monroe St NE Washington, DC 20017","False","False","2","https://www.yelp.com/biz/brookland-pint-washington-10?frvs=True&osq=Restaurant"
+"161","Ivy City SmokeHouse Tavern","1
+","263","Seafood,Smokehouse,Bars","4","1356 Okie St NE Washington, DC 20002","False","False","2","https://www.yelp.com/biz/ivy-city-smokehouse-tavern-washington?frvs=True&osq=Restaurant"
+"162","Unconventional Diner","2
+","73","Diners,Comfort Food","5","1207 9th St NW Washington, DC 20001","False","False","2","https://www.yelp.com/biz/unconventional-diner-washington-3?frvs=True&osq=Restaurant"
+"163","Masala Story","3
+","47","Indian","5","3301 12th St NE Washington, DC 20017","False","False","2","https://www.yelp.com/biz/masala-story-washington?frvs=True&osq=Restaurant"
+"164","Brookland's Finest","4
+","379","American (New),Bars","4","3126 12th St NE Washington, DC 20017","False","False","2","https://www.yelp.com/biz/brooklands-finest-washington-2?frvs=True&osq=Restaurant"
+"165","The Bespoke Kitchen","5
+","7","American (New)","4","2212 Rhode Island Ave NE Washington, DC 20018","False","False","4","https://www.yelp.com/biz/the-bespoke-kitchen-washington?frvs=True&osq=Restaurant"
+"166","Farmbird","6
+","207","Chicken Shop,American (New),American (Traditional)","5","625A H St NE Washington, DC 20002","False","False","2","https://www.yelp.com/biz/farmbird-washington?frvs=True&osq=Restaurant"
+"167","Primrose","7
+","31","French,Bars,Comfort Food","5","3000 12th St NE Washington, DC 20017","False","False","2","https://www.yelp.com/biz/primrose-washington?frvs=True&osq=Restaurant"
+"168","Steel Plate","8
+","126","Cocktail Bars,Comfort Food","4","3523 12th St NE Washington, DC 20017","False","False","2","https://www.yelp.com/biz/steel-plate-washington-2?frvs=True&osq=Restaurant"
+"169","Mason Dixie Biscuit","9
+","197","Sandwiches,Southern,Breakfast & Brunch","4","2301 Bladensburg Rd NE Washington, DC 20018","False","False","1","https://www.yelp.com/biz/mason-dixie-biscuit-washington-3?frvs=True&osq=Restaurant"
+"170","Ari's Diner","10         
+","94","Diners,Breakfast & Brunch","4","2003 Fenwick St Washington, DC 20002","False","False","2","https://www.yelp.com/biz/aris-diner-washington?frvs=True&osq=Restaurant"
+"171","Mary's Place","1         
+","14","Diners,Breakfast & Brunch","4","1509 Kenilworth Ave NE Washington, DC 20019","False","False","1","https://www.yelp.com/biz/marys-place-washington?frvs=True&osq=Restaurant"
+"172","Sharks Fish & Chicken","2
+","40","Chicken Wings,Seafood,Diners","4","4049 Minnesota Ave NE Washington, DC 20019","False","True","1","https://www.yelp.com/biz/sharks-fish-and-chicken-washington-2?frvs=True&osq=Restaurant"
+"173","Eclectic Cafe","3
+","9","Cafes","3","4058 Minnesota Ave NE Washington, DC 20019","False","False","0","https://www.yelp.com/biz/eclectic-cafe-washington?frvs=True&osq=Restaurant"
+"174","Fab Grill N Seafood","4
+","36","Seafood,American (Traditional)","5","6425 Landover Rd Cheverly, MD 20785","False","False","1","https://www.yelp.com/biz/fab-grill-n-seafood-cheverly?frvs=True&osq=Restaurant"
+"175","Maketto","5
+","662","Cafes,Cambodian,Taiwanese","4","1351 H St NE Washington, DC 20002","True","True","2","https://www.yelp.com/biz/maketto-washington-2?frvs=True&osq=Restaurant"
+"176","Ivy City SmokeHouse Tavern","6
+","263","Seafood,Smokehouse,Bars","4","1356 Okie St NE Washington, DC 20002","False","False","2","https://www.yelp.com/biz/ivy-city-smokehouse-tavern-washington?frvs=True&osq=Restaurant"
+"177","Stable","7
+","68","Modern European,Fondue,Cocktail Bars","5","1324 H St NE Washington, DC 20002","True","False","2","https://www.yelp.com/biz/stable-washington?frvs=True&osq=Restaurant"
+"178","Pimento Grill","8
+","184","Caribbean,Breakfast & Brunch,Sandwiches","4","4405 Bowen Rd SE Washington, DC 20019","False","False","2","https://www.yelp.com/biz/pimento-grill-washington?frvs=True&osq=Restaurant"
+"179","Sospeso","9
+","90","Cafes,Mediterranean,Wine Bars","5","1344 H St NE Washington, DC 20002","False","False","2","https://www.yelp.com/biz/sospeso-washington?frvs=True&osq=Restaurant"
+"180","White Corner","10
+","21","Breakfast & Brunch","4","4401 Southern Ave Capitol Heights, MD 20743","False","False","1","https://www.yelp.com/biz/white-corner-capitol-heights?frvs=True&osq=Restaurant"
+"181","Rose's Luxury","1         
+","1604","American (New),Italian","5","717 8th St SE Washington, DC 20003","False","False","3","https://www.yelp.com/biz/roses-luxury-washington?frvs=True&osq=Restaurant"
+"182","Capitol Hill Crab Cakes","2
+","163","American (New),Cupcakes","4","1243 Good Hope Rd SE Washington, DC 20020","False","False","2","https://www.yelp.com/biz/capitol-hill-crab-cakes-washington?frvs=True&osq=Restaurant"
+"183","Chloe","3
+","39","American (New),Modern European","5","1331 4th St SE Washington, DC 20003","False","False","3","https://www.yelp.com/biz/chloe-washington-4?frvs=True&osq=Restaurant"
+"184","Barrel","4
+","559","American (New),Cocktail Bars,Breakfast & Brunch","5","613 Pennsylvania Ave SE Washington, DC 20003","False","False","2","https://www.yelp.com/biz/barrel-washington?frvs=True&osq=Restaurant"
+"185","Farmbird","5
+","207","Chicken Shop,American (New),American (Traditional)","5","625A H St NE Washington, DC 20002","False","False","2","https://www.yelp.com/biz/farmbird-washington?frvs=True&osq=Restaurant"
+"186","The Alibi","6
+","213","British,Pubs,Seafood","5","237 2nd St NW Washington, DC 20001","False","False","2","https://www.yelp.com/biz/the-alibi-washington?frvs=True&osq=Restaurant"
+"187","Pineapple & Pearls","7
+","255","Cafes,Coffee & Tea,American (New)","5","715 8th St SE Washington, DC 20003","False","False","4","https://www.yelp.com/biz/pineapple-and-pearls-washington-3?frvs=True&osq=Restaurant"
+"188","Art-drenaline Cafe","8
+","24","Cafes,Soup,Sandwiches","5","1231 Good Hope Rd SE Washington, DC 20020","False","False","2","https://www.yelp.com/biz/art-drenaline-cafe-washington-2?frvs=True&osq=Restaurant"
+"189","Caribbean Citations","9
+","67","Caribbean","4","1208 Maple View Pl SE Washington, DC 20020","False","True","2","https://www.yelp.com/biz/caribbean-citations-washington-4?frvs=True&osq=Restaurant"
+"190","Turning Natural","10
+","70","Vegetarian,Juice Bars & Smoothies","5","2025 Martin Luther King Jr Ave SE Washington, DC 20020","False","False","1","https://www.yelp.com/biz/turning-natural-washington?frvs=True&osq=Restaurant"
+"191","Del Mar","1
+","123","Spanish,Seafood","4","791 Wharf St SW Washington, DC 20024","False","False","2","https://www.yelp.com/biz/del-mar-washington?frvs=True&osq=Restaurant"
+"192","Kith and Kin","2
+","173","African,Caribbean,American (New)","4","801 Wharf St SW Washington, DC 20024","False","False","3","https://www.yelp.com/biz/kith-and-kin-washington?frvs=True&osq=Restaurant"
+"193","The Alibi","3
+","213","British,Pubs,Seafood","5","237 2nd St NW Washington, DC 20001","False","False","2","https://www.yelp.com/biz/the-alibi-washington?frvs=True&osq=Restaurant"
+"194","USDA Whitten Cafe","4
+","55","Breakfast & Brunch,Cafeteria","4","1400 Independence Washington, DC 20250","False","False","1","https://www.yelp.com/biz/usda-whitten-cafe-washington?frvs=True&osq=Restaurant"
+"195","Kirwan's Irish Pub","5
+","80","Irish Pub,Breakfast & Brunch","3","749 Washington Ave SW Washington, DC 20024","False","False","2","https://www.yelp.com/biz/kirwans-irish-pub-washington?frvs=True&osq=Restaurant"
+"196","Chloe","6
+","39","American (New),Modern European","5","1331 4th St SE Washington, DC 20003","False","False","3","https://www.yelp.com/biz/chloe-washington-4?frvs=True&osq=Restaurant"
+"197","Hanks Oyster Bar - Wharf","7
+","73","Seafood,Bars","4","701 Wharf St SW Washington, DC 20024","False","False","2","https://www.yelp.com/biz/hanks-oyster-bar-wharf-washington?frvs=True&osq=Restaurant"
+"198","Captain White's Seafood","8         
+","645","Seafood Markets,Seafood","4","1100 Maine Ave SW Washington, DC 20024","False","False","2","https://www.yelp.com/biz/captain-whites-seafood-washington?frvs=True&osq=Restaurant"
+"199","Requin","9
+","62","Mediterranean,Cocktail Bars,French","4","100 District Square SW Washington, DC 20024","False","False","3","https://www.yelp.com/biz/requin-washington?frvs=True&osq=Restaurant"
+"200","The Velo Cafe","10
+","6","Cafes,Beer, Wine & Spirits","5","730B Maine Ave SW Washington, DC 20024","False","False","1","https://www.yelp.com/biz/the-velo-cafe-washington?frvs=True&osq=Restaurant"
+"201","MLK Deli","1         
+","34","Delis,Breakfast & Brunch,Sandwiches","4","3113 Martin Luther King Jr Ave SE Washington, DC 20032","False","False","2","https://www.yelp.com/biz/mlk-deli-washington-2?frvs=True&osq=Restaurant"
+"202","Chloe","2         
+","39","American (New),Modern European","5","1331 4th St SE Washington, DC 20003","False","False","3","https://www.yelp.com/biz/chloe-washington-4?frvs=True&osq=Restaurant"
+"203","Hen Quarter","3         
+","672","Southern,Bars","4","801 King St Alexandria, VA 22314","False","False","2","https://www.yelp.com/biz/hen-quarter-alexandria?frvs=True&osq=Restaurant"
+"204","Volas Dockside Grill & Hi-Tide Lounge","4         
+","404","Seafood,Bars,American (Traditional)","4","101 N Union St Alexandria, VA 22314","False","False","2","https://www.yelp.com/biz/volas-dockside-grill-and-hi-tide-lounge-alexandria?frvs=True&osq=Restaurant"
+"205","Country Style Chicken and Waffles","5         
+","155","Chicken Wings,Breakfast & Brunch","4","4817 Saint Barnabas Rd Temple Hills, MD 20748","False","False","1","https://www.yelp.com/biz/country-style-chicken-and-waffles-temple-hills?frvs=True&osq=Restaurant"
+"206","The Players Lounge","6         
+","22","Dive Bars,Southern,Soul Food","4","2737 Martin Luther King Jr Ave SE Washington, DC 20032","False","False","2","https://www.yelp.com/biz/the-players-lounge-washington?frvs=True&osq=Restaurant"
+"207","Mezeh Mediterranean Grill","7         
+","267","Mediterranean","5","2450 Crystal Dr Arlington, VA 22202","False","True","1","https://www.yelp.com/biz/mezeh-mediterranean-grill-arlington-3?frvs=True&osq=Restaurant"
+"208","Cafe 44","8         
+","12","American (Traditional),Breakfast & Brunch,Champagne Bars","5","44 Canal Center Plz Alexandria, VA 22314","False","False","0","https://www.yelp.com/biz/cafe-44-alexandria?frvs=True&osq=Restaurant"
+"209","Secrets of Nature Health Food Center","9         
+","22","Health Markets,Vegan,Vegetarian","5","3923 S Capitol St SW Washington, DC 20032","False","False","2","https://www.yelp.com/biz/secrets-of-nature-health-food-center-washington?frvs=True&osq=Restaurant"
+"210","Capitol Hill Crab Cakes","10         
+","163","American (New),Cupcakes","4","1243 Good Hope Rd SE Washington, DC 20020","False","False","2","https://www.yelp.com/biz/capitol-hill-crab-cakes-washington?frvs=True&osq=Restaurant"
+"211","Founding Farmers - D.C","1
+","10287","American (Traditional),Coffee & Tea,Breakfast & Brunch","4","1924 Pennsylvania Ave NW Washington, DC 20006","False","False","2","https://www.yelp.com/biz/founding-farmers-d-c-washington-2?frvs=True&osq=Restaurant"
+"212","The Pig","2
+","1341","American (Traditional),Cocktail Bars","4","1320 14th St NW Washington, DC 20005","False","False","2","https://www.yelp.com/biz/the-pig-washington-2?frvs=True&osq=Restaurant"
+"213","Honeysuckle","3
+","126","American (New)","5","1990 M St NW Washington, DC 20036","False","False","3","https://www.yelp.com/biz/honeysuckle-washington-3?frvs=True&osq=Restaurant"
+"214","Un Je Ne Sais Quoi","4
+","402","Desserts,Cafes,Bakeries","5","1361 Connecticut Ave NW Washington, DC 20036","False","False","1","https://www.yelp.com/biz/un-je-ne-sais-quoi-washington?frvs=True&osq=Restaurant"
+"215","Blue Duck Tavern","5
+","1937","American (New),Breakfast & Brunch,Cocktail Bars","4","1201 24th St NW Washington, DC 20037","False","False","3","https://www.yelp.com/biz/blue-duck-tavern-washington?frvs=True&osq=Restaurant"
+"216","Boqueria","6
+","920","Tapas Bars,Spanish","4","1837 M St NW Washington, DC 20036","False","False","3","https://www.yelp.com/biz/boqueria-washington?frvs=True&osq=Restaurant"
+"217","Tabard Inn Restaurant","7
+","1482","American (Traditional),Breakfast & Brunch,Burgers","4","1739 N St NW Washington, DC 20036","False","False","2","https://www.yelp.com/biz/tabard-inn-restaurant-washington-2?frvs=True&osq=Restaurant"
+"218","Stoney's on L","8         
+","220","American (Traditional),Lounges","4","2101 L St NW Washington, DC 20037","False","False","2","https://www.yelp.com/biz/stoneys-on-l-washington?frvs=True&osq=Restaurant"
+"219","Tulips","9
+","13","Bars,American (New)","4","1207 19th St NW Washington, DC 20036","False","False","3","https://www.yelp.com/biz/tulips-washington?frvs=True&osq=Restaurant"
+"220","Wicked Waffle","10
+","910","Breakfast & Brunch,Sandwiches,Gluten-Free","4","1712 I St NW Washington, DC 20006","False","False","1","https://www.yelp.com/biz/wicked-waffle-washington?frvs=True&osq=Restaurant"
+"221","Founding Farmers - D.C","1
+","10287","American (Traditional),Coffee & Tea,Breakfast & Brunch","4","1924 Pennsylvania Ave NW Washington, DC 20006","False","False","2","https://www.yelp.com/biz/founding-farmers-d-c-washington-2?frvs=True&osq=Restaurant"
+"222","Blue Duck Tavern","2
+","1937","American (New),Breakfast & Brunch,Cocktail Bars","4","1201 24th St NW Washington, DC 20037","False","False","3","https://www.yelp.com/biz/blue-duck-tavern-washington?frvs=True&osq=Restaurant"
+"223","Farmers Fishers Bakers","3
+","2583","American (New),Breakfast & Brunch,Vegetarian","4",,"False","False","2","https://www.yelp.com/biz/farmers-fishers-bakers-washington?frvs=True&osq=Restaurant"
+"224","Bluestone Lane","4
+","46","Coffee & Tea,Gluten-Free,Breakfast & Brunch","4","1100 23rd St NW Washington, DC 20037","False","False","2","https://www.yelp.com/biz/bluestone-lane-washington?frvs=True&osq=Restaurant"
+"225","Stoney's on L","5         
+","220","American (Traditional),Lounges","4","2101 L St NW Washington, DC 20037","False","False","2","https://www.yelp.com/biz/stoneys-on-l-washington?frvs=True&osq=Restaurant"
+"226","Honeysuckle","6
+","126","American (New)","5","1990 M St NW Washington, DC 20036","False","False","3","https://www.yelp.com/biz/honeysuckle-washington-3?frvs=True&osq=Restaurant"
+"227","The Pig","7
+","1341","American (Traditional),Cocktail Bars","4","1320 14th St NW Washington, DC 20005","False","False","2","https://www.yelp.com/biz/the-pig-washington-2?frvs=True&osq=Restaurant"
+"228","Jardenea","8
+","117","American (New),Bars,Breakfast & Brunch","4",,"False","False","2","https://www.yelp.com/biz/jardenea-washington?frvs=True&osq=Restaurant"
+"229","Grillfish DC","9
+","551","Seafood,Breakfast & Brunch,American (Traditional)","4","1200 New Hampshire Ave NW Washington, DC 20036","False","False","2","https://www.yelp.com/biz/grillfish-dc-washington?frvs=True&osq=Restaurant"
+"230","Garden Cafe","10
+","32","American (Traditional),Cafes","4","2117 E St NW Washington, DC 20037","False","False","2","https://www.yelp.com/biz/garden-cafe-washington-5?frvs=True&osq=Restaurant"
+"231","District Taco","1         
+","1258","Mexican","4","1309 F St NW Washington, DC 20004","False","False","1","https://www.yelp.com/biz/district-taco-washington-6?frvs=True&osq=Restaurant"
+"232","Old Ebbitt Grill","2         
+","6182","Bars,Breakfast & Brunch,Sandwiches","4","675 15th St NW Washington, DC 20005","False","False","2","https://www.yelp.com/biz/old-ebbitt-grill-washington?frvs=True&osq=Restaurant"
+"233","Proper 21","3         
+","216","Bars,American (New)","4","1319 F St NW Washington, DC 20004","False","False","2","https://www.yelp.com/biz/proper-21-washington?frvs=True&osq=Restaurant"
+"234","The Hamilton","4         
+","1823","Seafood,American (New),Music Venues","4","600 14th St NW Washington, DC 20005","False","False","2","https://www.yelp.com/biz/the-hamilton-washington?frvs=True&osq=Restaurant"
+"235","Smak","5         
+","20","Sandwiches,Soup,Salad","5","1331 Pennsylvania Ave NW Washington, DC 20004","False","False","1","https://www.yelp.com/biz/smak-washington?frvs=True&osq=Restaurant"
+"236","Avenue Grill","6         
+","52","American (Traditional)","3","1331 Pennsylvania Ave NW Washington, DC 20004","False","False","2","https://www.yelp.com/biz/avenue-grill-washington?frvs=True&osq=Restaurant"
+"237","NOOK","7         
+","8","Food Court","4","1300 Pennsylvania Ave NW Washington, DC 20229","False","False","1","https://www.yelp.com/biz/nook-washington-2?frvs=True&osq=Restaurant"
+"238","Astro Doughnuts & Fried Chicken","8         
+","878","Donuts,Chicken Shop,Sandwiches","4","1308 G St NW Washington, DC 20005","False","False","1","https://www.yelp.com/biz/astro-doughnuts-and-fried-chicken-washington?frvs=True&osq=Restaurant"
+"239","Ocean Prime","9         
+","218","Seafood,Steakhouses,American (New)","4","1341 G St NW Washington, DC 20005","False","False","3","https://www.yelp.com/biz/ocean-prime-washington?frvs=True&osq=Restaurant"
+"240","Elephant & Castle","10         
+","628","British,Pubs","4","1201 Pennsylvania Ave NW Washington, DC 20004","False","False","2","https://www.yelp.com/biz/elephant-and-castle-washington?frvs=True&osq=Restaurant"
+"241","Founding Farmers - D.C","1
+","10287","American (Traditional),Coffee & Tea,Breakfast & Brunch","4","1924 Pennsylvania Ave NW Washington, DC 20006","False","False","2","https://www.yelp.com/biz/founding-farmers-d-c-washington-2?frvs=True&osq=Restaurant"
+"242","Garden Cafe","2
+","32","American (Traditional),Cafes","4","2117 E St NW Washington, DC 20037","False","False","2","https://www.yelp.com/biz/garden-cafe-washington-5?frvs=True&osq=Restaurant"
+"243","UpTowner Cafe","3
+","12","Coffee & Tea,Breakfast & Brunch","5","2023 G St NW Washington, DC 20052","False","False","1","https://www.yelp.com/biz/uptowner-cafe-washington-4?frvs=True&osq=Restaurant"
+"244","Bluestone Lane","4
+","46","Coffee & Tea,Gluten-Free,Breakfast & Brunch","4","1100 23rd St NW Washington, DC 20037","False","False","2","https://www.yelp.com/biz/bluestone-lane-washington?frvs=True&osq=Restaurant"
+"245","Stoney's on L","5
+","220","American (Traditional),Lounges","4","2101 L St NW Washington, DC 20037","False","False","2","https://www.yelp.com/biz/stoneys-on-l-washington?frvs=True&osq=Restaurant"
+"246","Tonic","6
+","652","American (New),Bars","3","2036 G St NW Washington, DC 20052","False","False","2","https://www.yelp.com/biz/tonic-washington-5?frvs=True&osq=Restaurant"
+"247","GW Delicatessen","7
+","113","Delis,Sandwiches,Bagels","4","2133 G St NW Washington, DC 20037","False","False","1","https://www.yelp.com/biz/gw-delicatessen-washington?frvs=True&osq=Restaurant"
+"248","Moxie's","8         
+","84","Breakfast & Brunch,American (New),Cafes","4","1020 19th St NW Washington, DC 20036","False","True","1","https://www.yelp.com/biz/moxies-washington?frvs=True&osq=Restaurant"
+"249","Jardenea","9
+","117","American (New),Bars,Breakfast & Brunch","4",,"False","False","2","https://www.yelp.com/biz/jardenea-washington?frvs=True&osq=Restaurant"
+"250","Penn Grill","10
+","163","Sandwiches,Mongolian,Korean","5","825 20th St NW Washington, DC 20006","False","False","1","https://www.yelp.com/biz/penn-grill-washington?frvs=True&osq=Restaurant"
+"251","Chloe","1
+","39","American (New),Modern European","5","1331 4th St SE Washington, DC 20003","False","False","3","https://www.yelp.com/biz/chloe-washington-4?frvs=True&osq=Restaurant"
+"252","Scarlet Oak","2
+","205","American (New)","4","909 New Jersey Ave SE Washington, DC 20003","False","False","2","https://www.yelp.com/biz/scarlet-oak-washington?frvs=True&osq=Restaurant"
+"253","Rice Bar","3
+","75","Delis,Korean","4","409 3rd St SW Washington, DC 20024","False","True","2","https://www.yelp.com/biz/rice-bar-washington-3?frvs=True&osq=Restaurant"
+"254","Osteria Morini","4
+","529","Italian","4","301 Water St SE Washington, DC 20003","False","False","3","https://www.yelp.com/biz/osteria-morini-washington?frvs=True&osq=Restaurant"
+"255","Due South","5
+","330","Southern,Barbeque","4","301 Water St SE Washington, DC 20003","False","False","2","https://www.yelp.com/biz/due-south-washington-2?frvs=True&osq=Restaurant"
+"256","Mitsitam Cafe","6
+","461","American (Traditional),Cafes","4","4th St & Independence Ave SW Washington, DC 20560","False","False","2","https://www.yelp.com/biz/mitsitam-cafe-washington-3?frvs=True&osq=Restaurant"
+"257","Whaley's","7         
+","201","Bars,Seafood,Venues & Event Spaces","4","301 Water St SE Washington, DC 20003","False","False","2","https://www.yelp.com/biz/whaleys-washington?frvs=True&osq=Restaurant"
+"258","El Fuego","8
+","72","Food Trucks,Peruvian","4","Maryland Ave SW Washington, DC 20597","False","False","1","https://www.yelp.com/biz/el-fuego-washington-2?frvs=True&osq=Restaurant"
+"259","RASA","9
+","79","Indian","5","1247 First St SE Washington, DC 20003","False","False","2","https://www.yelp.com/biz/rasa-washington-2?frvs=True&osq=Restaurant"
+"260","Ana at District Winery","10
+","48","American (New),Bars","5","385 Water St SE Washington, DC 20003","False","False","3","https://www.yelp.com/biz/ana-at-district-winery-washington-2?frvs=True&osq=Restaurant"
+"261","1789 Restaurant","1
+","613","American (Traditional),American (New),Ice Cream & Frozen Yogurt","4","1226 36th St NW Washington, DC 20007","False","False","4","https://www.yelp.com/biz/1789-restaurant-washington-4?frvs=True&osq=Restaurant"
+"262","The Tombs","2
+","334","American (New),Diners,Cocktail Bars","4","1226 36th St NW Washington, DC 20007","False","False","2","https://www.yelp.com/biz/the-tombs-washington?frvs=True&osq=Restaurant"
+"263","Leo J O'Donovan Dining Hall","3
+","9","American (Traditional)","2","Georgetown University Washington, DC 20057","False","False","2","https://www.yelp.com/biz/leo-j-o-donovan-dining-hall-washington-2?frvs=True&osq=Restaurant"
+"264","Wisemiller's Grocery & Deli","4         
+","100","Delis,Grocery","4","1236 36th St NW Washington, DC 20007","False","False","1","https://www.yelp.com/biz/wisemillers-grocery-and-deli-washington?frvs=True&osq=Restaurant"
+"265","The Hilltoss","5
+","9","Salad,Juice Bars & Smoothies","4",,"False","False","2","https://www.yelp.com/biz/the-hilltoss-washington?frvs=True&osq=Restaurant"
+"266","Chick-fil-A","6
+","1","Fast Food","5","3800 Reservoir Rd Nw Washington, DC 20007","False","False","0","https://www.yelp.com/biz/chick-fil-a-washington-18?frvs=True&osq=Restaurant"
+"267","Masala Story","1
+","47","Indian","5","3301 12th St NE Washington, DC 20017","False","False","2","https://www.yelp.com/biz/masala-story-washington?frvs=True&osq=Restaurant"
+"268","Busboys and Poets - Brookland","2
+","188","Breakfast & Brunch,Mediterranean,American (Traditional)","4","625 Monroe St NE Washington, DC 20017","False","False","2","https://www.yelp.com/biz/busboys-and-poets-brookland-washington?frvs=True&osq=Restaurant"
+"269","Steel Plate","3
+","126","Cocktail Bars,Comfort Food","4","3523 12th St NE Washington, DC 20017","False","False","2","https://www.yelp.com/biz/steel-plate-washington-2?frvs=True&osq=Restaurant"
+"270","Brookland's Finest","4
+","379","American (New),Bars","4","3126 12th St NE Washington, DC 20017","False","False","2","https://www.yelp.com/biz/brooklands-finest-washington-2?frvs=True&osq=Restaurant"
+"271","Primrose","5
+","31","French,Bars,Comfort Food","5","3000 12th St NE Washington, DC 20017","False","False","2","https://www.yelp.com/biz/primrose-washington?frvs=True&osq=Restaurant"
+"272","Smith Public Trust","6
+","177","American (New),Pubs","4","3514 12th St NE Washington, DC 20017","False","False","2","https://www.yelp.com/biz/smith-public-trust-washington?frvs=True&osq=Restaurant"
+"273","Pho 12","7
+","67","Vietnamese","4","3740 12th St NE Washington, DC 20017","False","False","2","https://www.yelp.com/biz/pho-12-washington-2?frvs=True&osq=Restaurant"
+"274","Fox Loves Taco","8
+","24","Tacos,Coffee & Tea,Breakfast & Brunch","4","716 Monroe St NE Washington, DC 20017","False","False","1","https://www.yelp.com/biz/fox-loves-taco-washington?frvs=True&osq=Restaurant"
+"275","Brookland Pint","9
+","196","Bars,American (Traditional)","4","716 Monroe St NE Washington, DC 20017","False","False","2","https://www.yelp.com/biz/brookland-pint-washington-10?frvs=True&osq=Restaurant"
+"276","Murry & Paul's Restaurant","10         
+","88","Breakfast & Brunch","4","3513 12th St NE Washington, DC 20017","False","False","1","https://www.yelp.com/biz/murry-and-pauls-restaurant-washington?frvs=True&osq=Restaurant"
+"277","Basil Thyme","1
+","259","Food Stands,Italian,Food Trucks","5","L' Enfant Plz Washington, DC 20024","False","False","1","https://www.yelp.com/biz/basil-thyme-washington?frvs=True&osq=Restaurant"
+"278","Cafe Twelve","2
+","52","Sandwiches","4","409 12th St SW Washington, DC 20024","False","False","1","https://www.yelp.com/biz/cafe-twelve-washington?frvs=True&osq=Restaurant"
+"279","Muze","3
+","46","American (New)","4",,"False","False","3","https://www.yelp.com/biz/muze-washington?frvs=True&osq=Restaurant"
+"280","Flippin' Pizza","4         
+","74","Pizza","4","1250 Maryland Ave SW Washington, DC 20024","False","True","1","https://www.yelp.com/biz/flippin-pizza-washington-4?frvs=True&osq=Restaurant"
+"281","Potbelly Sandwich Shop","5
+","59","Sandwiches,Fast Food,Soup","4","1240 Maryland Ave SW Washington, DC 20024","False","True","1","https://www.yelp.com/biz/potbelly-sandwich-shop-washington-14?frvs=True&osq=Restaurant"
+"282","Naan & Beyond","6
+","26","Indian","4","429 L'Enfant Plaza 340 SW Washington, DC 20024","False","True","2","https://www.yelp.com/biz/naan-and-beyond-washington-4?frvs=True&osq=Restaurant"
+"283","Pie Five Pizza Co.","7
+","21","Pizza","4","429 L'enfant Plaza Ctr Washington, DC 20022","False","False","1","https://www.yelp.com/biz/pie-five-pizza-co-washington?frvs=True&osq=Restaurant"
+"284","Sandella's Flatbread Cafe","8
+","19","Salad,Sandwiches,Italian","4","470 Lenfant Plz SW Washington, DC 20024","False","True","1","https://www.yelp.com/biz/sandellas-flatbread-cafe-washington-4?frvs=True&osq=Restaurant"
+"285","Capital Cafe","9
+","10","Sandwiches","3","1201 Maine Ave SW Washington, DC 20024","False","False","2","https://www.yelp.com/biz/capital-cafe-washington?frvs=True&osq=Restaurant"
+"286","Kabob and Curry","10
+","6","Food Trucks,Indian","3","12TH St SW Washington, DC 20024","False","False","1","https://www.yelp.com/biz/kabob-and-curry-washington?frvs=True&osq=Restaurant"
+"287","The Alibi","1         
+","213","British,Pubs,Seafood","5","237 2nd St NW","False","False","2","https://www.yelp.com/biz/the-alibi-washington?frvs=True&osq=Restaurant"
+"288","Hen Quarter","2         
+","433","Southern,Breakfast & Brunch","4","750 E St NW","False","False","2","https://www.yelp.com/biz/hen-quarter-washington-2?frvs=True&osq=Restaurant"
+"289","b DC Penn Quarter","3         
+","1010","Burgers,Bars,American (New)","4","801 Pennsylvania Ave NW","False","False","2","https://www.yelp.com/biz/b-penn-quarter-washington-2?frvs=True&osq=Restaurant"
+"290","Del Mar","4         
+","123","Spanish,Seafood","4","791 Wharf St SW","False","False","2","https://www.yelp.com/biz/del-mar-washington?frvs=True&osq=Restaurant"
+"291","Mitsitam Cafe","5         
+","461","American (Traditional),Cafes","4","4th St & Independence Ave SW","False","False","2","https://www.yelp.com/biz/mitsitam-cafe-washington-3?frvs=True&osq=Restaurant"
+"292","Rice Bar","6         
+","75","Delis,Korean","4","409 3rd St SW","False","True","2","https://www.yelp.com/biz/rice-bar-washington-3?frvs=True&osq=Restaurant"
+"293","El Fuego","7         
+","72","Food Trucks,Peruvian","4","Maryland Ave SW","False","False","1","https://www.yelp.com/biz/el-fuego-washington-2?frvs=True&osq=Restaurant"
+"294","Scarlet Oak","8         
+","205","American (New)","4","909 New Jersey Ave SE","False","False","2","https://www.yelp.com/biz/scarlet-oak-washington?frvs=True&osq=Restaurant"
+"295","Kith and Kin","9         
+","173","African,Caribbean,American (New)","4","801 Wharf St SW","False","False","3","https://www.yelp.com/biz/kith-and-kin-washington?frvs=True&osq=Restaurant"
+"296","Grand Trunk","10         
+","780","Asian Fusion,Pakistani,Indian","4","641 Indiana Ave NW","False","False","2","https://www.yelp.com/biz/grand-trunk-washington?frvs=True&osq=Restaurant"
+"297","USDA Whitten Cafe","1         
+","55","Breakfast & Brunch,Cafeteria","4","1400 Independence Washington, DC 20250","False","False","1","https://www.yelp.com/biz/usda-whitten-cafe-washington?frvs=True&osq=Restaurant"
+"298","Cafe Twelve","2         
+","52","Sandwiches","4","409 12th St SW Washington, DC 20024","False","False","1","https://www.yelp.com/biz/cafe-twelve-washington?frvs=True&osq=Restaurant"
+"299","Museum Cafe","3         
+","20","American (Traditional),Vegetarian","3","202-236 15th St SW Washington, DC 20250","False","False","2","https://www.yelp.com/biz/museum-cafe-washington?frvs=True&osq=Restaurant"
+"300","Potbelly Sandwich Shop","4         
+","59","Sandwiches,Fast Food,Soup","4","1240 Maryland Ave SW Washington, DC 20024","False","True","1","https://www.yelp.com/biz/potbelly-sandwich-shop-washington-14?frvs=True&osq=Restaurant"
+"301","Kabob and Curry","5         
+","6","Food Trucks,Indian","3","12TH St SW Washington, DC 20024","False","False","1","https://www.yelp.com/biz/kabob-and-curry-washington?frvs=True&osq=Restaurant"
+"302","La Fresca Deli","6         
+","0","Pizza","0","409 12th St SW Washington, DC 20024","False","False","0","https://www.yelp.com/biz/la-fresca-deli-washington?frvs=True&osq=Restaurant"
+"303","Founding Farmers - D.C","1         
+","10287","American (Traditional),Coffee & Tea,Breakfast & Brunch","4","1924 Pennsylvania Ave NW Washington, DC 20006","False","False","2","https://www.yelp.com/biz/founding-farmers-d-c-washington-2?frvs=True&osq=Restaurant"
+"304","USDA Whitten Cafe","2         
+","55","Breakfast & Brunch,Cafeteria","4","1400 Independence Washington, DC 20250","False","False","1","https://www.yelp.com/biz/usda-whitten-cafe-washington?frvs=True&osq=Restaurant"
+"305","Old Ebbitt Grill","3         
+","6182","Bars,Breakfast & Brunch,Sandwiches","4","675 15th St NW Washington, DC 20005","False","False","2","https://www.yelp.com/biz/old-ebbitt-grill-washington?frvs=True&osq=Restaurant"
+"306","Pennsylvania 6 DC","4         
+","298","American (Traditional),Seafood,Cocktail Bars","5","1350 Eye St NW Washington, DC 20005","False","False","3","https://www.yelp.com/biz/pennsylvania-6-dc-washington?frvs=True&osq=Restaurant"
+"307","b DC Penn Quarter","5         
+","1010","Burgers,Bars,American (New)","4","801 Pennsylvania Ave NW Washington, DC 20004","False","False","2","https://www.yelp.com/biz/b-penn-quarter-washington-2?frvs=True&osq=Restaurant"
+"308","District Taco","6         
+","1258","Mexican","4","1309 F St NW Washington, DC 20004","False","False","1","https://www.yelp.com/biz/district-taco-washington-6?frvs=True&osq=Restaurant"
+"309","Tropic Burger","7         
+","7","Hot Dogs,Burgers,Food Trucks","5","Washington, DC 20006","False","False","1","https://www.yelp.com/biz/tropic-burger-washington?frvs=True&osq=Restaurant"
+"310","Sweet Home Cafe","8         
+","104","American (New),Cafes","4","1400 Constitution Ave NW Washington, DC 20560","False","False","2","https://www.yelp.com/biz/sweet-home-cafe-washington?frvs=True&osq=Restaurant"
+"311","Wicked Waffle","9         
+","910","Breakfast & Brunch,Sandwiches,Gluten-Free","4","1712 I St NW Washington, DC 20006","False","False","1","https://www.yelp.com/biz/wicked-waffle-washington?frvs=True&osq=Restaurant"
+"312","Garden Cafe","10         
+","32","American (Traditional),Cafes","4","2117 E St NW Washington, DC 20037","False","False","2","https://www.yelp.com/biz/garden-cafe-washington-5?frvs=True&osq=Restaurant"
+"313","California Tortilla","1
+","16","Mexican,Tex-Mex,Salad","3","1809 E St NW Washington, DC 20006","False","False","1","https://www.yelp.com/biz/california-tortilla-washington-13?frvs=True&osq=Restaurant"
+"314","Which Wich","2
+","37","Sandwiches","4","1803 E St NW Washington, DC 20006","False","False","1","https://www.yelp.com/biz/which-wich-washington-2?frvs=True&osq=Restaurant"
+"315","Greenberry's Coffee Company","3
+","40","Coffee & Tea,Fast Food","4","1805 E St NW Washington, DC 20006","False","False","1","https://www.yelp.com/biz/greenberrys-coffee-company-washington?frvs=True&osq=Restaurant"
+"316","American Red Cross Cafeteria","4
+","13","Cafeteria","3","2025 E St NW Washington, DC 20006","False","False","1","https://www.yelp.com/biz/american-red-cross-cafeteria-washington?frvs=True&osq=Restaurant"
+"317","Cafe des Artistes","5
+","6","American (Traditional),Breakfast & Brunch,Coffee & Tea","3","500 17th St NW Washington, DC 20006","False","False","2","https://www.yelp.com/biz/cafe-des-artistes-washington?frvs=True&osq=Restaurant"
+"318","Constitution Gardens Food Kiosk","6
+","0","Food Stands","0","1900 Constitution Ave NW Washington, DC 20245","False","False","0","https://www.yelp.com/biz/constitution-gardens-food-kiosk-washington?frvs=True&osq=Restaurant"
+"319","Subway","7
+","10","Sandwiches,Fast Food","3","1959 E St NW Washington, DC 20052","False","False","1","https://www.yelp.com/biz/subway-washington-54?frvs=True&osq=Restaurant"
+"320","Greenberry's Coffee","8         
+","0","Coffee & Tea,Sandwiches,Juice Bars & Smoothies","0","431 18th St NW Washington, DC 20009","False","False","0","https://www.yelp.com/biz/greenberrys-coffee-washington-4?frvs=True&osq=Restaurant"
+"321","Negotiations Restaurant","9
+","0","Restaurants","0","1750 New York Ave NW Washington, DC 20006","False","False","0","https://www.yelp.com/biz/negotiations-restaurant-washington?frvs=True&osq=Restaurant"
+"322","Unconventional Diner","1         
+","73","Diners,Comfort Food","5","1207 9th St NW Washington, DC 20001","False","False","2","https://www.yelp.com/biz/unconventional-diner-washington-3?frvs=True&osq=Restaurant"
+"323","Founding Farmers - D.C","2         
+","10287","American (Traditional),Coffee & Tea,Breakfast & Brunch","4","1924 Pennsylvania Ave NW Washington, DC 20006","False","False","2","https://www.yelp.com/biz/founding-farmers-d-c-washington-2?frvs=True&osq=Restaurant"
+"324","USDA Whitten Cafe","3         
+","55","Breakfast & Brunch,Cafeteria","4","1400 Independence Washington, DC 20250","False","False","1","https://www.yelp.com/biz/usda-whitten-cafe-washington?frvs=True&osq=Restaurant"
+"325","The Pig","4         
+","1341","American (Traditional),Cocktail Bars","4","1320 14th St NW Washington, DC 20005","False","False","2","https://www.yelp.com/biz/the-pig-washington-2?frvs=True&osq=Restaurant"
+"326","Farmers Fishers Bakers","5         
+","2583","American (New),Breakfast & Brunch,Vegetarian","4",,"False","False","2","https://www.yelp.com/biz/farmers-fishers-bakers-washington?frvs=True&osq=Restaurant"
+"327","Garden Cafe","6         
+","32","American (Traditional),Cafes","4","2117 E St NW Washington, DC 20037","False","False","2","https://www.yelp.com/biz/garden-cafe-washington-5?frvs=True&osq=Restaurant"
+"328","Hen Quarter","7         
+","433","Southern,Breakfast & Brunch","4","750 E St NW Washington, DC 20004","False","False","2","https://www.yelp.com/biz/hen-quarter-washington-2?frvs=True&osq=Restaurant"
+"329","Blue Duck Tavern","8         
+","1937","American (New),Breakfast & Brunch,Cocktail Bars","4","1201 24th St NW Washington, DC 20037","False","False","3","https://www.yelp.com/biz/blue-duck-tavern-washington?frvs=True&osq=Restaurant"
+"330","Old Ebbitt Grill","9         
+","6182","Bars,Breakfast & Brunch,Sandwiches","4","675 15th St NW Washington, DC 20005","False","False","2","https://www.yelp.com/biz/old-ebbitt-grill-washington?frvs=True&osq=Restaurant"
+"331","Pennsylvania 6 DC","10         
+","298","American (Traditional),Seafood,Cocktail Bars","5","1350 Eye St NW Washington, DC 20005","False","False","3","https://www.yelp.com/biz/pennsylvania-6-dc-washington?frvs=True&osq=Restaurant"
+"332","Basil Thyme","1
+","259","Food Stands,Italian,Food Trucks","5","L' Enfant Plz Washington, DC 20024","False","False","1","https://www.yelp.com/biz/basil-thyme-washington?frvs=True&osq=Restaurant"
+"333","Pho Express","2
+","7","Vietnamese,Fast Food","5","429 L'Enfant Plz SW Washington, DC 20024","False","False","0","https://www.yelp.com/biz/pho-express-washington?frvs=True&osq=Restaurant"
+"334","Cafe Twelve","3
+","52","Sandwiches","4","409 12th St SW Washington, DC 20024","False","False","1","https://www.yelp.com/biz/cafe-twelve-washington?frvs=True&osq=Restaurant"
+"335","Amsterdam Falafelshop","4
+","53","Falafel","4","429 L'Enfant Plz SW Washington, DC 20024","False","True","1","https://www.yelp.com/biz/amsterdam-falafelshop-washington-5?frvs=True&osq=Restaurant"
+"336","Naan & Beyond","5
+","26","Indian","4","429 L'Enfant Plaza 340 SW Washington, DC 20024","False","True","2","https://www.yelp.com/biz/naan-and-beyond-washington-4?frvs=True&osq=Restaurant"
+"337","Pie Five Pizza Co.","6
+","21","Pizza","4","429 L'enfant Plaza Ctr Washington, DC 20022","False","False","1","https://www.yelp.com/biz/pie-five-pizza-co-washington?frvs=True&osq=Restaurant"
+"338","Sandella's Flatbread Cafe","7
+","19","Salad,Sandwiches,Italian","4","470 Lenfant Plz SW Washington, DC 20024","False","True","1","https://www.yelp.com/biz/sandellas-flatbread-cafe-washington-4?frvs=True&osq=Restaurant"
+"339","Church's Chicken","8         
+","52","Chicken Wings,Fast Food","3","429 L'enfant Plz Washington, DC 20024","False","True","1","https://www.yelp.com/biz/churchs-chicken-washington?frvs=True&osq=Restaurant"
+"340","Thai Happy Bellies","9
+","37","Food Trucks,Thai","3","L'enfant Plz Washington, DC","False","False","1","https://www.yelp.com/biz/thai-happy-bellies-washington-2?frvs=True&osq=Restaurant"
+"341","California Tortilla","10
+","22","Tex-Mex,Mexican","3",,"False","False","1","https://www.yelp.com/biz/california-tortilla-washington-11?frvs=True&osq=Restaurant"
+"342","Moh Moh Licious","1
+","41","Himalayan/Nepalese,Asian Fusion","5","7414 Georgia Ave NW Washington, DC 20012","False","False","2","https://www.yelp.com/biz/moh-moh-licious-washington?frvs=True&osq=Restaurant"
+"343","Wings On Deck","2
+","80","Chicken Wings,Southern,Soul Food","5","7317 Georgia Ave NW Washington, DC 20012","False","True","2","https://www.yelp.com/biz/wings-on-deck-washington?frvs=True&osq=Restaurant"
+"344","J & J Mex-Taqueria","3
+","48","Mexican,Fast Food,Latin American","5","6231 Georgia Ave NW Washington, DC 20011","False","True","1","https://www.yelp.com/biz/j-and-j-mex-taqueria-washington-3?frvs=True&osq=Restaurant"
+"345","Guajillo Chalateco","4
+","14","New Mexican Cuisine,Salvadoran","4","6214 Georgia Ave Washington, DC 20011","False","False","1","https://www.yelp.com/biz/guajillo-chalateco-washington?frvs=True&osq=Restaurant"
+"346","Wapa Cafe Boutique","5
+","102","Coffee & Tea,Latin American,Cafes","5","6230 Georgia Ave NW Washington, DC 20011","False","True","1","https://www.yelp.com/biz/wapa-cafe-boutique-washington?frvs=True&osq=Restaurant"
+"347","Teddy's Roti Shop","6         
+","135","Caribbean","4","7304 Georgia Ave NW Washington, DC 20012","False","False","2","https://www.yelp.com/biz/teddys-roti-shop-washington?frvs=True&osq=Restaurant"
+"348","El Dorado Bread Restaurant","7
+","7","Mexican,Seafood","5","6209 Georgia Ave NW Washington, DC 20011","False","False","2","https://www.yelp.com/biz/el-dorado-bread-restaurant-washington?frvs=True&osq=Restaurant"
+"349","Haydees 2000","8
+","29","Latin American,Bars","4","6303 Georgia Ave NW Washington, DC 20011","False","False","2","https://www.yelp.com/biz/haydees-2000-washington?frvs=True&osq=Restaurant"
+"350","Qategna Cafe","9
+","3","Ethiopian","5","1207 Tuckerman St NW Washington, DC 20011","False","False","0","https://www.yelp.com/biz/qategna-cafe-washington?frvs=True&osq=Restaurant"
+"351","Angelico Pizzeria","10
+","84","Pizza","3","7311 Georgia Ave NW Washington, DC 20012","False","True","2","https://www.yelp.com/biz/angelico-pizzeria-washington?frvs=True&osq=Restaurant"
+"352","Ivy City SmokeHouse Tavern","1
+","263","Seafood,Smokehouse,Bars","4","1356 Okie St NE Washington, DC 20002","False","False","2","https://www.yelp.com/biz/ivy-city-smokehouse-tavern-washington?frvs=True&osq=Restaurant"
+"353","Brookland's Finest","2
+","379","American (New),Bars","4","3126 12th St NE Washington, DC 20017","False","False","2","https://www.yelp.com/biz/brooklands-finest-washington-2?frvs=True&osq=Restaurant"
+"354","Primrose","3
+","31","French,Bars,Comfort Food","5","3000 12th St NE Washington, DC 20017","False","False","2","https://www.yelp.com/biz/primrose-washington?frvs=True&osq=Restaurant"
+"355","Huacatay Peruvian Chicken","4
+","67","Peruvian,Chicken Shop","5","2314 4th St NE Washington, DC 20002","False","False","1","https://www.yelp.com/biz/huacatay-peruvian-chicken-washington?frvs=True&osq=Restaurant"
+"356","Ari's Diner","5         
+","94","Diners,Breakfast & Brunch","4","2003 Fenwick St Washington, DC 20002","False","False","2","https://www.yelp.com/biz/aris-diner-washington?frvs=True&osq=Restaurant"
+"357","La Puerta Verde","6
+","105","Mexican","4","2001 Fenwick St NE Washington, DC 20002","False","False","2","https://www.yelp.com/biz/la-puerta-verde-washington?frvs=True&osq=Restaurant"
+"358","Salumeria 2703","7
+","16","Delis,Italian","5","2703 12th St NE Washington, DC 20017","False","False","2","https://www.yelp.com/biz/salumeria-2703-washington?frvs=True&osq=Restaurant"
+"359","DC Dives","8
+","2","Breakfast & Brunch,Meat Shops,Coffee & Tea","3","680 Rhode Island Ave NE Washington, DC 20002","False","False","1","https://www.yelp.com/biz/dc-dives-washington-3?frvs=True&osq=Restaurant"
+"360","S&G Seafood House","9
+","13","Seafood","5","2721 7th St NE Washington, DC 20017","False","False","1","https://www.yelp.com/biz/s-and-g-seafood-house-washington?frvs=True&osq=Restaurant"
+"361","The Dew Drop Inn","10
+","56","Dive Bars,American (Traditional)","4","2801 8th St NE Washington, DC 20017","False","False","2","https://www.yelp.com/biz/the-dew-drop-inn-washington?frvs=True&osq=Restaurant"
+"362","Chloe","1
+","39","American (New),Modern European","5","1331 4th St SE Washington, DC 20003","False","False","3","https://www.yelp.com/biz/chloe-washington-4?frvs=True&osq=Restaurant"
+"363","Rose's Luxury","2
+","1604","American (New),Italian","5","717 8th St SE Washington, DC 20003","False","False","3","https://www.yelp.com/biz/roses-luxury-washington?frvs=True&osq=Restaurant"
+"364","Del Mar","3
+","123","Spanish,Seafood","4","791 Wharf St SW Washington, DC 20024","False","False","2","https://www.yelp.com/biz/del-mar-washington?frvs=True&osq=Restaurant"
+"365","Osteria Morini","4
+","529","Italian","4","301 Water St SE Washington, DC 20003","False","False","3","https://www.yelp.com/biz/osteria-morini-washington?frvs=True&osq=Restaurant"
+"366","Due South","5
+","330","Southern,Barbeque","4","301 Water St SE Washington, DC 20003","False","False","2","https://www.yelp.com/biz/due-south-washington-2?frvs=True&osq=Restaurant"
+"367","The Salt Line","6
+","174","Seafood,American (Traditional)","4","79 Potomac Ave SE Washington, DC 20003","False","False","2","https://www.yelp.com/biz/the-salt-line-washington?frvs=True&osq=Restaurant"
+"368","Whaley's","7         
+","201","Bars,Seafood,Venues & Event Spaces","4","301 Water St SE Washington, DC 20003","False","False","2","https://www.yelp.com/biz/whaleys-washington?frvs=True&osq=Restaurant"
+"369","Kith and Kin","8
+","173","African,Caribbean,American (New)","4","801 Wharf St SW Washington, DC 20024","False","False","3","https://www.yelp.com/biz/kith-and-kin-washington?frvs=True&osq=Restaurant"
+"370","Scarlet Oak","9
+","205","American (New)","4","909 New Jersey Ave SE Washington, DC 20003","False","False","2","https://www.yelp.com/biz/scarlet-oak-washington?frvs=True&osq=Restaurant"
+"371","Pineapple & Pearls","10
+","255","Cafes,Coffee & Tea,American (New)","5","715 8th St SE Washington, DC 20003","False","False","4","https://www.yelp.com/biz/pineapple-and-pearls-washington-3?frvs=True&osq=Restaurant"
+"372","Chloe","1
+","39","American (New),Modern European","5","1331 4th St SE Washington, DC 20003","False","False","3","https://www.yelp.com/biz/chloe-washington-4?frvs=True&osq=Restaurant"
+"373","Del Mar","2
+","123","Spanish,Seafood","4","791 Wharf St SW Washington, DC 20024","False","False","2","https://www.yelp.com/biz/del-mar-washington?frvs=True&osq=Restaurant"
+"374","Osteria Morini","3
+","529","Italian","4","301 Water St SE Washington, DC 20003","False","False","3","https://www.yelp.com/biz/osteria-morini-washington?frvs=True&osq=Restaurant"
+"375","MLK Deli","4
+","34","Delis,Breakfast & Brunch,Sandwiches","4","3113 Martin Luther King Jr Ave SE Washington, DC 20032","False","False","2","https://www.yelp.com/biz/mlk-deli-washington-2?frvs=True&osq=Restaurant"
+"376","Due South","5
+","330","Southern,Barbeque","4","301 Water St SE Washington, DC 20003","False","False","2","https://www.yelp.com/biz/due-south-washington-2?frvs=True&osq=Restaurant"
+"377","Whaley's","6         
+","201","Bars,Seafood,Venues & Event Spaces","4","301 Water St SE Washington, DC 20003","False","False","2","https://www.yelp.com/biz/whaleys-washington?frvs=True&osq=Restaurant"
+"378","The Salt Line","7
+","174","Seafood,American (Traditional)","4","79 Potomac Ave SE Washington, DC 20003","False","False","2","https://www.yelp.com/biz/the-salt-line-washington?frvs=True&osq=Restaurant"
+"379","Capitol Hill Crab Cakes","8
+","163","American (New),Cupcakes","4","1243 Good Hope Rd SE Washington, DC 20020","False","False","2","https://www.yelp.com/biz/capitol-hill-crab-cakes-washington?frvs=True&osq=Restaurant"
+"380","Ana at District Winery","9
+","48","American (New),Bars","5","385 Water St SE Washington, DC 20003","False","False","3","https://www.yelp.com/biz/ana-at-district-winery-washington-2?frvs=True&osq=Restaurant"
+"381","Scarlet Oak","10
+","205","American (New)","4","909 New Jersey Ave SE Washington, DC 20003","False","False","2","https://www.yelp.com/biz/scarlet-oak-washington?frvs=True&osq=Restaurant"
+"382","Rose's Luxury","1
+","1604","American (New),Italian","5","717 8th St SE","False","False","3","https://www.yelp.com/biz/roses-luxury-washington?frvs=True&osq=Restaurant"
+"383","Pineapple & Pearls","2
+","255","Cafes,Coffee & Tea,American (New)","5","715 8th St SE","False","False","4","https://www.yelp.com/biz/pineapple-and-pearls-washington-3?frvs=True&osq=Restaurant"
+"384","Torai","3
+","36","Sushi Bars,Pan Asian","5","751 8th St SE","False","False","2","https://www.yelp.com/biz/torai-washington?frvs=True&osq=Restaurant"
+"385","Ted's Bulletin","4         
+","1698","Breakfast & Brunch,American (Traditional),Sandwiches","4","505 8th St SE","False","False","2","https://www.yelp.com/biz/teds-bulletin-washington?frvs=True&osq=Restaurant"
+"386","Ambar","5
+","1095","Modern European","5","523 8th St SE","False","False","2","https://www.yelp.com/biz/ambar-washington?frvs=True&osq=Restaurant"
+"387","Lavagna","6
+","540","Italian","4","539 8th St SE","False","False","2","https://www.yelp.com/biz/lavagna-washington?frvs=True&osq=Restaurant"
+"388","Sushi Hachi","7
+","89","Sushi Bars","5","735 8th St SE","True","False","3","https://www.yelp.com/biz/sushi-hachi-washington?frvs=True&osq=Restaurant"
+"389","Garrison","8
+","165","American (New),Breakfast & Brunch","4","524 8th St SE","False","False","3","https://www.yelp.com/biz/garrison-washington?frvs=True&osq=Restaurant"
+"390","Cava Mezze","9
+","1223","Greek,Mediterranean,Seafood","4","527 8th St SE","True","True","2","https://www.yelp.com/biz/cava-mezze-washington-6?frvs=True&osq=Restaurant"
+"391","Medium Rare","10
+","561","Steakhouses,American (Traditional)","4","515 8th St SE","False","False","2","https://www.yelp.com/biz/medium-rare-washington-2?frvs=True&osq=Restaurant"
+"392","GCDC Grilled Cheese Bar","1
+","368","American (Traditional),Comfort Food","4","1730 Pennsylvania Ave NW, Downtown","False","True","2","https://www.yelp.com/biz/gcdc-grilled-cheese-bar-washington?frvs=True&osq=Restaurant"
+"393","Zen Taco","2
+","8","Mexican,Poke","4","1747 Pennsylvania Ave NW, Downtown","False","False","0","https://www.yelp.com/biz/zen-taco-washington-4?frvs=True&osq=Restaurant"
+"394","Rolling Cow","3
+","47","Food Trucks,Korean,American (Traditional)","5",,"False","False","2","https://www.yelp.com/biz/rolling-cow-washington?frvs=True&osq=Restaurant"
+"395","Roti Modern Mediterranean","4
+","215","Mediterranean","4","1747 Pennsylvania Ave NW, Downtown","False","False","1","https://www.yelp.com/biz/roti-modern-mediterranean-washington-2?frvs=True&osq=Restaurant"
+"396","Cafe Aria","5
+","38","Cafes,Pizza,Sandwiches","4","1917 F St NW, Foggy Bottom","False","False","1","https://www.yelp.com/biz/cafe-aria-washington?frvs=True&osq=Restaurant"
+"397","California Tortilla","6
+","16","Mexican,Tex-Mex,Salad","3","1809 E St NW, Foggy Bottom","False","False","1","https://www.yelp.com/biz/california-tortilla-washington-13?frvs=True&osq=Restaurant"
+"398","Halal Grill Food Truck","7
+","68","Food Trucks,Halal","5",,"False","False","1","https://www.yelp.com/biz/halal-grill-food-truck-washington?frvs=True&osq=Restaurant"
+"399","Greenberry's Coffee Company","8         
+","40","Coffee & Tea,Fast Food","4","1805 E St NW, Foggy Bottom","False","False","1","https://www.yelp.com/biz/greenberrys-coffee-company-washington?frvs=True&osq=Restaurant"
+"400","The Exchange","9
+","172","Sports Bars,American (Traditional)","3","1719 G St NW, Foggy Bottom","False","False","2","https://www.yelp.com/biz/the-exchange-washington?frvs=True&osq=Restaurant"
+"401","Which Wich","10
+","37","Sandwiches","4","1803 E St NW, Foggy Bottom","False","False","1","https://www.yelp.com/biz/which-wich-washington-2?frvs=True&osq=Restaurant"
+"402","Founding Farmers - D.C","1
+","10287","American (Traditional),Coffee & Tea,Breakfast & Brunch","4","1924 Pennsylvania Ave NW Washington, DC 20006","False","False","2","https://www.yelp.com/biz/founding-farmers-d-c-washington-2?frvs=True&osq=Restaurant"
+"403","USDA Whitten Cafe","2
+","55","Breakfast & Brunch,Cafeteria","4","1400 Independence Washington, DC 20250","False","False","1","https://www.yelp.com/biz/usda-whitten-cafe-washington?frvs=True&osq=Restaurant"
+"404","Del Mar","3
+","123","Spanish,Seafood","4","791 Wharf St SW Washington, DC 20024","False","False","2","https://www.yelp.com/biz/del-mar-washington?frvs=True&osq=Restaurant"
+"405","Old Ebbitt Grill","4
+","6182","Bars,Breakfast & Brunch,Sandwiches","4","675 15th St NW Washington, DC 20005","False","False","2","https://www.yelp.com/biz/old-ebbitt-grill-washington?frvs=True&osq=Restaurant"
+"406","Garden Cafe","5
+","32","American (Traditional),Cafes","4","2117 E St NW Washington, DC 20037","False","False","2","https://www.yelp.com/biz/garden-cafe-washington-5?frvs=True&osq=Restaurant"
+"407","Pennsylvania 6 DC","6
+","298","American (Traditional),Seafood,Cocktail Bars","5","1350 Eye St NW Washington, DC 20005","False","False","3","https://www.yelp.com/biz/pennsylvania-6-dc-washington?frvs=True&osq=Restaurant"
+"408","b DC Penn Quarter","7
+","1010","Burgers,Bars,American (New)","4","801 Pennsylvania Ave NW Washington, DC 20004","False","False","2","https://www.yelp.com/biz/b-penn-quarter-washington-2?frvs=True&osq=Restaurant"
+"409","District Taco","8
+","1258","Mexican","4","1309 F St NW Washington, DC 20004","False","False","1","https://www.yelp.com/biz/district-taco-washington-6?frvs=True&osq=Restaurant"
+"410","Captain White's Seafood","9
+","645","Seafood Markets,Seafood","4","1100 Maine Ave SW Washington, DC 20024","False","False","2","https://www.yelp.com/biz/captain-whites-seafood-washington?frvs=True&osq=Restaurant"
+"411","Luke's Lobster Farragut","10         
+","7","Seafood","5","800 17th St NW Washington, DC 20006","False","False","0","https://www.yelp.com/biz/lukes-lobster-farragut-washington-2?frvs=True&osq=Restaurant"
+"412","Bluestone Lane","1
+","46","Coffee & Tea,Gluten-Free,Breakfast & Brunch","4","1100 23rd St NW Washington, DC 20037","False","False","2","https://www.yelp.com/biz/bluestone-lane-washington?frvs=True&osq=Restaurant"
+"413","Stoney's on L","2
+","220","American (Traditional),Lounges","4","2101 L St NW Washington, DC 20037","False","False","2","https://www.yelp.com/biz/stoneys-on-l-washington?frvs=True&osq=Restaurant"
+"414","District Commons","3
+","814","Beer Bar,Cocktail Bars,American (Traditional)","4","2200 Pennsylvania Ave NW Washington, DC 20037","False","False","2","https://www.yelp.com/biz/district-commons-washington-3?frvs=True&osq=Restaurant"
+"415","Penn Grill","4
+","163","Sandwiches,Mongolian,Korean","5","825 20th St NW Washington, DC 20006","False","False","1","https://www.yelp.com/biz/penn-grill-washington?frvs=True&osq=Restaurant"
+"416","El Chal'n","5         
+","485","Peruvian","4","1924 I St NW Washington, DC 20006","False","False","2","https://www.yelp.com/biz/el-chal%C3%A1n-washington-3?frvs=True&osq=Restaurant"
+"417","Roti Modern Mediterranean","6
+","285","Mediterranean","4","2221 I St NW Washington, DC 20052","False","False","1","https://www.yelp.com/biz/roti-modern-mediterranean-washington?frvs=True&osq=Restaurant"
+"418","Burger Tap & Shake Foggy Bottom","7
+","730","Burgers","4",,"False","False","2","https://www.yelp.com/biz/burger-tap-and-shake-foggy-bottom-washington-4?frvs=True&osq=Restaurant"
+"419","CIRCA at Foggy Bottom","8
+","494","American (New),Sandwiches","4","2221 I St NW Washington, DC 20037","False","False","2","https://www.yelp.com/biz/circa-at-foggy-bottom-washington-2?frvs=True&osq=Restaurant"
+"420","Crepeaway","9
+","343","Creperies","4","2001 L St NW Washington, DC 20036","False","False","1","https://www.yelp.com/biz/crepeaway-washington?frvs=True&osq=Restaurant"
+"421","Sol Mexican Grill","10
+","6","Mexican","5","2121 H St NW Washington, DC 20052","False","False","2","https://www.yelp.com/biz/sol-mexican-grill-washington-6?frvs=True&osq=Restaurant"
+"422","Luke's Lobster Farragut","1         
+","7","Seafood","5","800 17th St NW Washington, DC 20006","False","False","0","https://www.yelp.com/biz/lukes-lobster-farragut-washington-2?frvs=True&osq=Restaurant"
+"423","Wicked Waffle","2
+","910","Breakfast & Brunch,Sandwiches,Gluten-Free","4","1712 I St NW Washington, DC 20006","False","False","1","https://www.yelp.com/biz/wicked-waffle-washington?frvs=True&osq=Restaurant"
+"424","Alfa Piehouse","3
+","92","Greek,Bakeries,Breakfast & Brunch","5","1750 H St NW Washington, DC 20006","False","True","1","https://www.yelp.com/biz/alfa-piehouse-washington?frvs=True&osq=Restaurant"
+"425","GCDC Grilled Cheese Bar","4
+","368","American (Traditional),Comfort Food","4","1730 Pennsylvania Ave NW Washington, DC 20006","False","True","2","https://www.yelp.com/biz/gcdc-grilled-cheese-bar-washington?frvs=True&osq=Restaurant"
+"426","Off The Record","5
+","237","Bars,American (New)","4","800 16th St NW Washington, DC 20006","False","False","3","https://www.yelp.com/biz/off-the-record-washington?frvs=True&osq=Restaurant"
+"427","Zen Taco","6
+","8","Mexican,Poke","4","1747 Pennsylvania Ave NW Washington, DC 20006","False","False","0","https://www.yelp.com/biz/zen-taco-washington-4?frvs=True&osq=Restaurant"
+"428","Navy Mess & Ward Room","7
+","3","American (Traditional)","5","1600 Pennsylvania Ave Washington, DC 20500","False","False","0","https://www.yelp.com/biz/navy-mess-and-ward-room-washington?frvs=True&osq=Restaurant"
+"429","RARE Steak and Seafood","8
+","56","Steakhouses,Seafood,Breakfast & Brunch","5","1595 I St NW Washington, DC 20005","False","False","4","https://www.yelp.com/biz/rare-steak-and-seafood-washington?frvs=True&osq=Restaurant"
+"430","The Lafayette","9
+","73","American (New)","5",,"False","False","3","https://www.yelp.com/biz/the-lafayette-washington-3?frvs=True&osq=Restaurant"
+"431","Roti Modern Mediterranean","10
+","215","Mediterranean","4","1747 Pennsylvania Ave NW Washington, DC 20006","False","False","1","https://www.yelp.com/biz/roti-modern-mediterranean-washington-2?frvs=True&osq=Restaurant"
+"432","Cafe Bliss","1         
+","26","Coffee & Tea,Cafes","4","201 Massachusetts Ave NE Washington, DC 20002","False","False","1","https://www.yelp.com/biz/cafe-bliss-washington?frvs=True&osq=Restaurant"
+"433","Senate Cafeteria","2         
+","27","Cafeteria","4","Dirksen Senate Office Building Washington, DC 20050","False","False","1","https://www.yelp.com/biz/senate-cafeteria-washington?frvs=True&osq=Restaurant"
+"434","The Monocle","3         
+","102","Steakhouses,Seafood,American (Traditional)","4","107 D St NE Washington, DC 20002","False","False","3","https://www.yelp.com/biz/the-monocle-washington?frvs=True&osq=Restaurant"
+"435","Bistro Italiano","4         
+","144","Italian,Pizza","4","320 D St NE Washington, DC 20002","False","False","2","https://www.yelp.com/biz/bistro-italiano-washington?frvs=True&osq=Restaurant"
+"436","Union Pub","5         
+","264","Pubs,American (Traditional)","3","201 Massachusetts Ave NE Washington, DC 20002","False","False","2","https://www.yelp.com/biz/union-pub-washington?frvs=True&osq=Restaurant"
+"437","The 201 Bar","6         
+","137","Bars,American (Traditional),Venues & Event Spaces","4","201 Massachusetts Ave NE Washington, DC 20002","False","False","2","https://www.yelp.com/biz/the-201-bar-washington?frvs=True&osq=Restaurant"
+"438","Kyoto Japanese Restaurant","7         
+","107","Japanese,Sushi Bars","4","201 Massachusetts Ave NE Washington, DC 20002","False","True","2","https://www.yelp.com/biz/kyoto-japanese-restaurant-washington?frvs=True&osq=Restaurant"
+"439","The Supreme Court Cafeteria","8         
+","3","Cafeteria","3","1 1st St NE Washington, DC 20543","False","False","0","https://www.yelp.com/biz/the-supreme-court-cafeteria-washington?frvs=True&osq=Restaurant"
+"440","Capitol Hill Supermarket","9         
+","32","Grocery,Delis","4","241 Massachusetts Ave NE Washington, DC 20002","False","False","2","https://www.yelp.com/biz/capitol-hill-supermarket-washington?frvs=True&osq=Restaurant"
+"441","The One Hundred Sixteen","10         
+","0","American (Traditional)","0","234 3rd St NE Washington, DC 20002","False","False","0","https://www.yelp.com/biz/the-one-hundred-sixteen-washington?frvs=True&osq=Restaurant"
+"442","Garden Cafe","1         
+","32","American (Traditional),Cafes","4","2117 E St NW Washington, DC 20037","False","False","2","https://www.yelp.com/biz/garden-cafe-washington-5?frvs=True&osq=Restaurant"
+"443","UpTowner Cafe","2         
+","12","Coffee & Tea,Breakfast & Brunch","5","2023 G St NW Washington, DC 20052","False","False","1","https://www.yelp.com/biz/uptowner-cafe-washington-4?frvs=True&osq=Restaurant"
+"444","Campono","3         
+","113","Pizza,Gelato,Cafes","4","600 New Hampshire Ave NW Washington, DC 20037","False","False","2","https://www.yelp.com/biz/campono-washington?frvs=True&osq=Restaurant"
+"445","Tonic","4         
+","652","American (New),Bars","3","2036 G St NW Washington, DC 20052","False","False","2","https://www.yelp.com/biz/tonic-washington-5?frvs=True&osq=Restaurant"
+"446","&pizza","5         
+","72","Pizza","5",,"False","False","2","https://www.yelp.com/biz/and-pizza-washington-46?frvs=True&osq=Restaurant"
+"447","GW Delicatessen","6         
+","113","Delis,Sandwiches,Bagels","4","2133 G St NW Washington, DC 20037","False","False","1","https://www.yelp.com/biz/gw-delicatessen-washington?frvs=True&osq=Restaurant"
+"448","The Deli at Watergate","7         
+","50","Delis,Sandwiches","5","2538 Virginia Ave NW Washington, DC 20037","False","True","1","https://www.yelp.com/biz/the-deli-at-watergate-washington?frvs=True&osq=Restaurant"
+"449","Cafe Aria","8         
+","38","Cafes,Pizza,Sandwiches","4","1917 F St NW Washington, DC 20006","False","False","1","https://www.yelp.com/biz/cafe-aria-washington?frvs=True&osq=Restaurant"
+"450","Carvings","9         
+","51","Breakfast & Brunch,American (Traditional)","4","2021 F St NW Washington, DC 20006","False","False","1","https://www.yelp.com/biz/carvings-washington?frvs=True&osq=Restaurant"
+"451","Roof Terrace Restaurant","10         
+","165","Breakfast & Brunch,American (Traditional)","3","2700 F St NW Washington, DC 20566","False","False","3","https://www.yelp.com/biz/roof-terrace-restaurant-washington-3?frvs=True&osq=Restaurant"
+"452","Carving Room","1
+","316","Sandwiches,Salad,Breakfast & Brunch","4","300 Massachusetts Ave NW Washington, DC 20001","False","False","2","https://www.yelp.com/biz/carving-room-washington?frvs=True&osq=Restaurant"
+"453","Sixth Engine","2
+","387","American (Traditional)","4","438 Massachusetts Ave NW Washington, DC 20001","False","False","2","https://www.yelp.com/biz/sixth-engine-washington?frvs=True&osq=Restaurant"
+"454","Wiseguy Pizza","3
+","743","Pizza","5","300 Massachusetts Ave NW Washington, DC 20001","False","False","1","https://www.yelp.com/biz/wiseguy-pizza-washington-3?frvs=True&osq=Restaurant"
+"455","Hill Country Backyard BBQ","4
+","26","Barbeque","4",,"False","False","2","https://www.yelp.com/biz/hill-country-backyard-bbq-washington?frvs=True&osq=Restaurant"
+"456","New Course","5
+","40","Sandwiches","4","500 3rd St NW Washington, DC 20001","False","False","1","https://www.yelp.com/biz/new-course-washington?frvs=True&osq=Restaurant"
+"457","Jack's Famous Deli","6         
+","29","Delis,Sandwiches","4","501 3rd St NW Washington, DC 20001","False","False","1","https://www.yelp.com/biz/jacks-famous-deli-washington?frvs=True&osq=Restaurant"
+"458","Market Cafe","7
+","2","Sandwiches,Salad,Pizza","4","600 New Jersey Ave NW Washington, DC 20001","False","False","0","https://www.yelp.com/biz/market-cafe-washington?frvs=True&osq=Restaurant"
+"459","Canyon Burger Co","8
+","1","Burgers,Fast Food","4","441 4th St NW Washington, DC 20001","False","False","0","https://www.yelp.com/biz/canyon-burger-co-washington?frvs=True&osq=Restaurant"
+"460","Third and Eats Too","9
+","1","Sandwiches","4","500 3rd St NW Washington, DC 20001","False","False","1","https://www.yelp.com/biz/third-and-eats-too-washington?frvs=True&osq=Restaurant"
+"461","Canyons Burger Company","10
+","10","Burgers","3","441 4th St NW Washington, DC 20001","False","False","2","https://www.yelp.com/biz/canyons-burger-company-washington?frvs=True&osq=Restaurant"
+"462","Let's Mix! BiBiJa!","1         
+","125","Asian Fusion,Korean","4","209 Pennsylvania Ave SE Washington, DC 20003","False","True","2","https://www.yelp.com/biz/lets-mix-bibija-washington?frvs=True&osq=Restaurant"
+"463","Maison Dixon","2
+","10","American (Traditional),Southern","3","229 Pennsylvania Ave SE Washington, DC 20003","False","False","2","https://www.yelp.com/biz/maison-dixon-washington?frvs=True&osq=Restaurant"
+"464","Pete's Diner","3
+","237","Diners,Breakfast & Brunch","4","212 2nd St SE Washington, DC 20003","False","False","1","https://www.yelp.com/biz/petes-diner-washington?frvs=True&osq=Restaurant"
+"465","Good Stuff Eatery","4
+","1744","Burgers","4","303 Pennsylvania Ave SE Washington, DC 20003","False","False","2","https://www.yelp.com/biz/good-stuff-eatery-washington?frvs=True&osq=Restaurant"
+"466","Bullfeathers","5
+","181","American (Traditional),American (New)","3","410 1st St SE Washington, DC 20003","False","False","2","https://www.yelp.com/biz/bullfeathers-washington?frvs=True&osq=Restaurant"
+"467","Sonoma Restaurant & Wine Bar","6
+","394","American (New),Wine Bars","4","223 Pennsylvania Ave SE Washington, DC 20003","False","False","3","https://www.yelp.com/biz/sonoma-restaurant-and-wine-bar-washington?frvs=True&osq=Restaurant"
+"468","Firehook Bakery","7
+","100","Bakeries,Breakfast & Brunch","4","215 Pennsylvania Ave SE Washington, DC 20003","False","False","1","https://www.yelp.com/biz/firehook-bakery-washington-2?frvs=True&osq=Restaurant"
+"469","Madison","8
+","9","Cafeteria","3","101 Independence Ave SE Washington, DC 20540","False","False","1","https://www.yelp.com/biz/madison-washington?frvs=True&osq=Restaurant"
+"470","We, The Pizza","9
+","851","Pizza","4","305 Pennsylvania Ave SE Washington, DC 20003","False","False","1","https://www.yelp.com/biz/we-the-pizza-washington-2?frvs=True&osq=Restaurant"
+"471","Hunan Dynasty","10
+","152","Chinese","3","215 Pennsylvania Ave SE Washington, DC 20003","False","True","2","https://www.yelp.com/biz/hunan-dynasty-washington?frvs=True&osq=Restaurant"
+"472","Hot Dog Stand","1
+","2","Food Stands","4","Constitution Ave Washington, DC 20551","False","False","0","https://www.yelp.com/biz/hot-dog-stand-washington-2?frvs=True&osq=Restaurant"
+"473","Ariana's Latin Cuisine","2         
+","9","Food Trucks,Latin American","3","Washington, DC 20245","False","False","0","https://www.yelp.com/biz/arianas-latin-cuisine-washington?frvs=True&osq=Restaurant"
+"474","Constitution Gardens Food Kiosk","3
+","0","Food Stands","0","1900 Constitution Ave NW Washington, DC 20245","False","False","0","https://www.yelp.com/biz/constitution-gardens-food-kiosk-washington?frvs=True&osq=Restaurant"
+"475","Circle Cafe","4
+","0","Cafeteria","0","2201 C St NW Washington, DC 20520","False","False","0","https://www.yelp.com/biz/circle-cafe-washington?frvs=True&osq=Restaurant"
+"476","Tropical Smoothie Cafe","5
+","1","Salad,Juice Bars & Smoothies,Sandwiches","2","Virginia Ave 21st St NW Washington, DC 20245","False","False","0","https://www.yelp.com/biz/tropical-smoothie-cafe-washington?frvs=True&osq=Restaurant"
+"477","El Fuego","1
+","72","Food Trucks,Peruvian","4","Maryland Ave SW Washington, DC 20597","False","False","1","https://www.yelp.com/biz/el-fuego-washington-2?frvs=True&osq=Restaurant"
+"478","Rice Bar","2
+","9","Korean","5",,"False","False","2","https://www.yelp.com/biz/rice-bar-washington-7?frvs=True&osq=Restaurant"
+"479","Lilypad On The Run Food Truck","3
+","57","Food Trucks,Ethiopian","4","6th & Maryland Ave SW Washington, DC 20024","False","False","1","https://www.yelp.com/biz/lilypad-on-the-run-food-truck-washington?frvs=True&osq=Restaurant"
+"480","Vie de France","4
+","96","Bakeries,French,Sandwiches","3","600 Maryland Ave SW Washington, DC 20024","False","False","1","https://www.yelp.com/biz/vie-de-france-washington?frvs=True&osq=Restaurant"
+"481","Roti Modern Mediterranean","5
+","66","Mediterranean","4","600 Maryland Ave SW Washington, DC 20024","False","False","1","https://www.yelp.com/biz/roti-modern-mediterranean-washington-4?frvs=True&osq=Restaurant"
+"482","Sami's Hot Dog Cart","6         
+","6","Food Stands","5","770 Maryland Ave SW Washington, DC 20407","False","False","1","https://www.yelp.com/biz/samis-hot-dog-cart-washington?frvs=True&osq=Restaurant"
+"483","Cosmo Cafe","7
+","49","Breakfast & Brunch,Sandwiches,Salad","3","600 Maryland Ave SW Washington, DC 20024","False","False","2","https://www.yelp.com/biz/cosmo-cafe-washington?frvs=True&osq=Restaurant"
+"484","BiBi Ja","8
+","13","Food Trucks,Korean","4","Washington, DC 20026","False","False","2","https://www.yelp.com/biz/bibi-ja-washington?frvs=True&osq=Restaurant"
+"485","Pizza Autentica","9
+","35","Pizza","2","300 7th St SW Washington, DC 20024","False","False","1","https://www.yelp.com/biz/pizza-autentica-washington?frvs=True&osq=Restaurant"
+"486","Federal Aviation Administration Cafeteria","10
+","3","Cafeteria","2","800 Independence Ave SW Washington, DC 20553","False","False","1","https://www.yelp.com/biz/federal-aviation-administration-cafeteria-washington?frvs=True&osq=Restaurant"
+"487","USDA Whitten Cafe","1
+","55","Breakfast & Brunch,Cafeteria","4","1400 Independence Washington, DC 20250","False","False","1","https://www.yelp.com/biz/usda-whitten-cafe-washington?frvs=True&osq=Restaurant"
+"488","Hen Quarter","2
+","433","Southern,Breakfast & Brunch","4","750 E St NW Washington, DC 20004","False","False","2","https://www.yelp.com/biz/hen-quarter-washington-2?frvs=True&osq=Restaurant"
+"489","b DC Penn Quarter","3
+","1010","Burgers,Bars,American (New)","4","801 Pennsylvania Ave NW Washington, DC 20004","False","False","2","https://www.yelp.com/biz/b-penn-quarter-washington-2?frvs=True&osq=Restaurant"
+"490","Old Ebbitt Grill","4
+","6182","Bars,Breakfast & Brunch,Sandwiches","4","675 15th St NW Washington, DC 20005","False","False","2","https://www.yelp.com/biz/old-ebbitt-grill-washington?frvs=True&osq=Restaurant"
+"491","Del Mar","5
+","123","Spanish,Seafood","4","791 Wharf St SW Washington, DC 20024","False","False","2","https://www.yelp.com/biz/del-mar-washington?frvs=True&osq=Restaurant"
+"492","The Smith","6
+","379","Bars,Steakhouses","4","901 F St NW Washington, DC 20004","False","False","2","https://www.yelp.com/biz/the-smith-washington-2?frvs=True&osq=Restaurant"
+"493","District Taco","7
+","1258","Mexican","4","1309 F St NW Washington, DC 20004","False","False","1","https://www.yelp.com/biz/district-taco-washington-6?frvs=True&osq=Restaurant"
+"494","Sweet Home Cafe","8
+","104","American (New),Cafes","4","1400 Constitution Ave NW Washington, DC 20560","False","False","2","https://www.yelp.com/biz/sweet-home-cafe-washington?frvs=True&osq=Restaurant"
+"495","Captain White's Seafood","9         
+","645","Seafood Markets,Seafood","4","1100 Maine Ave SW Washington, DC 20024","False","False","2","https://www.yelp.com/biz/captain-whites-seafood-washington?frvs=True&osq=Restaurant"
+"496","Timgad Cafe","10
+","85","Coffee & Tea,Cafes,Sandwiches","5","1300 Pennsylvania Ave Washington, DC 20004","False","False","1","https://www.yelp.com/biz/timgad-cafe-washington-6?frvs=True&osq=Restaurant"
+"497","The Alibi","1
+","213","British,Pubs,Seafood","5","237 2nd St NW Washington, DC 20001","False","False","2","https://www.yelp.com/biz/the-alibi-washington?frvs=True&osq=Restaurant"
+"498","Hen Quarter","2
+","433","Southern,Breakfast & Brunch","4","750 E St NW Washington, DC 20004","False","False","2","https://www.yelp.com/biz/hen-quarter-washington-2?frvs=True&osq=Restaurant"
+"499","b DC Penn Quarter","3
+","1010","Burgers,Bars,American (New)","4","801 Pennsylvania Ave NW Washington, DC 20004","False","False","2","https://www.yelp.com/biz/b-penn-quarter-washington-2?frvs=True&osq=Restaurant"
+"500","USDA Whitten Cafe","4
+","55","Breakfast & Brunch,Cafeteria","4","1400 Independence Washington, DC 20250","False","False","1","https://www.yelp.com/biz/usda-whitten-cafe-washington?frvs=True&osq=Restaurant"
+"501","Mitsitam Cafe","5
+","461","American (Traditional),Cafes","4","4th St & Independence Ave SW Washington, DC 20560","False","False","2","https://www.yelp.com/biz/mitsitam-cafe-washington-3?frvs=True&osq=Restaurant"
+"502","Grand Trunk","6
+","780","Asian Fusion,Pakistani,Indian","4","641 Indiana Ave NW Washington, DC 20004","False","False","2","https://www.yelp.com/biz/grand-trunk-washington?frvs=True&osq=Restaurant"
+"503","Daikaya Izakaya","7
+","619","Izakaya","4","705 6th St NW Washington, DC 20001","False","False","2","https://www.yelp.com/biz/daikaya-izakaya-washington-8?frvs=True&osq=Restaurant"
+"504","The Smith","8
+","379","Bars,Steakhouses","4","901 F St NW Washington, DC 20004","False","False","2","https://www.yelp.com/biz/the-smith-washington-2?frvs=True&osq=Restaurant"
+"505","El Fuego","9
+","72","Food Trucks,Peruvian","4","Maryland Ave SW Washington, DC 20597","False","False","1","https://www.yelp.com/biz/el-fuego-washington-2?frvs=True&osq=Restaurant"
+"506","Luke's Lobster Penn Quarter","10         
+","1106","Seafood","4","624 E St NW Washington, DC 20004","False","False","2","https://www.yelp.com/biz/lukes-lobster-penn-quarter-washington?frvs=True&osq=Restaurant"
+"507","Founding Farmers - D.C","1         
+","10287","American (Traditional),Coffee & Tea,Breakfast & Brunch","4","1924 Pennsylvania Ave NW Washington, DC 20006","False","False","2","https://www.yelp.com/biz/founding-farmers-d-c-washington-2?frvs=True&osq=Restaurant"
+"508","Farmers Fishers Bakers","2         
+","2583","American (New),Breakfast & Brunch,Vegetarian","4",,"False","False","2","https://www.yelp.com/biz/farmers-fishers-bakers-washington?frvs=True&osq=Restaurant"
+"509","Unconventional Diner","3         
+","73","Diners,Comfort Food","5","1207 9th St NW Washington, DC 20001","False","False","2","https://www.yelp.com/biz/unconventional-diner-washington-3?frvs=True&osq=Restaurant"
+"510","BIBIMIX","4         
+","19","Korean,Barbeque,Chicken Wings","5","1910 Wilson Blvd Arlington, VA 22201","False","False","0","https://www.yelp.com/biz/bibimix-arlington?frvs=True&osq=Restaurant"
+"511","Tupelo Honey","5         
+","994","Southern,Breakfast & Brunch,American (New)","4","1616 N Troy St Arlington, VA 22201","False","False","2","https://www.yelp.com/biz/tupelo-honey-arlington?frvs=True&osq=Restaurant"
+"512","Blue Duck Tavern","6         
+","1937","American (New),Breakfast & Brunch,Cocktail Bars","4","1201 24th St NW Washington, DC 20037","False","False","3","https://www.yelp.com/biz/blue-duck-tavern-washington?frvs=True&osq=Restaurant"
+"513","The Pig","7         
+","1341","American (Traditional),Cocktail Bars","4","1320 14th St NW Washington, DC 20005","False","False","2","https://www.yelp.com/biz/the-pig-washington-2?frvs=True&osq=Restaurant"
+"514","Barley Mac","8         
+","385","Bars,American (New)","4","1600 Wilson Blvd Arlington, VA 22209","False","False","2","https://www.yelp.com/biz/barley-mac-arlington?frvs=True&osq=Restaurant"
+"515","Garden Cafe","9         
+","32","American (Traditional),Cafes","4","2117 E St NW Washington, DC 20037","False","False","2","https://www.yelp.com/biz/garden-cafe-washington-5?frvs=True&osq=Restaurant"
+"516","Kingbird","10         
+","154","French,American (Traditional)","4",,"False","False","3","https://www.yelp.com/biz/kingbird-washington?frvs=True&osq=Restaurant"
+"517","Chloe","1
+","39","American (New),Modern European","5","1331 4th St SE, Navy Yard","False","False","3","https://www.yelp.com/biz/chloe-washington-4?frvs=True&osq=Restaurant"
+"518","Rose's Luxury","2
+","1604","American (New),Italian","5","717 8th St SE, Capitol Hill","False","False","3","https://www.yelp.com/biz/roses-luxury-washington?frvs=True&osq=Restaurant"
+"519","Barrel","3
+","559","American (New),Cocktail Bars,Breakfast & Brunch","5","613 Pennsylvania Ave SE, Capitol Hill","False","False","2","https://www.yelp.com/biz/barrel-washington?frvs=True&osq=Restaurant"
+"520","Del Mar","4
+","123","Spanish,Seafood","4","791 Wharf St SW, Washington, DC","False","False","2","https://www.yelp.com/biz/del-mar-washington?frvs=True&osq=Restaurant"
+"521","Osteria Morini","5
+","529","Italian","4","301 Water St SE, Navy Yard","False","False","3","https://www.yelp.com/biz/osteria-morini-washington?frvs=True&osq=Restaurant"
+"522","Due South","6
+","330","Southern,Barbeque","4","301 Water St SE, Navy Yard","False","False","2","https://www.yelp.com/biz/due-south-washington-2?frvs=True&osq=Restaurant"
+"523","Whaley's","7         
+","201","Bars,Seafood,Venues & Event Spaces","4","301 Water St SE, Navy Yard","False","False","2","https://www.yelp.com/biz/whaleys-washington?frvs=True&osq=Restaurant"
+"524","Scarlet Oak","8
+","205","American (New)","4","909 New Jersey Ave SE, Navy Yard","False","False","2","https://www.yelp.com/biz/scarlet-oak-washington?frvs=True&osq=Restaurant"
+"525","The Salt Line","9
+","174","Seafood,American (Traditional)","4","79 Potomac Ave SE, Navy Yard","False","False","2","https://www.yelp.com/biz/the-salt-line-washington?frvs=True&osq=Restaurant"
+"526","Pineapple & Pearls","10
+","255","Cafes,Coffee & Tea,American (New)","5","715 8th St SE, Capitol Hill","False","False","4","https://www.yelp.com/biz/pineapple-and-pearls-washington-3?frvs=True&osq=Restaurant"
